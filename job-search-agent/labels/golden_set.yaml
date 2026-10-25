@@ -1,0 +1,1499 @@
+# Golden set: fill label: apply | inbox | discard on EVERY entry.
+#   apply   = you would be happy with the bot auto-applying here
+#   inbox   = a human should look at this first
+#   discard = ignore (below your bar)
+# Label by YOUR judgment, not system_score. Then run: jobagent eval
+- title: Machine Learning Engineer
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4475580915/
+  apply_type: easy_apply
+  experience_min: null
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 'We are looking for a highly capable machine learning engineer to optimize our machine learning systems. You
+    will be evaluating existing machine learning (ML) processes, performing statistical analysis to resolve data set problems,
+    and enhancing the accuracy of our AI software''s predictive automation capabilities. To ensure success as a machine learning
+    engineer, you should demonstrate solid data science knowledge and experience in a related ML role. A first-class machine
+    learning engineer will be someone whose expertise translates into the enhanced performance of predictive automation software.
+    Responsibilities: Consulting with managers to determine and refine machine learning objectives. Designing machine learning
+    systems and self-running artificial intelligence (AI) software to automate predictive models. Transforming data science
+    prototypes and applying appropriate ML algorithms and tools. Ensuring that algorithms generate accurate user recommendations.
+    Turning unstructured data into useful information by auto-tagging images and text-to-speech conversions. Solving complex
+    problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks. Developing
+    ML algorithms to analyze huge volumes of historical data to make predictions. Running tests, performing statistical analysis,
+    and interpreting test results. Documenting machine learning processes. Keeping abreast of developments in machine learning.
+    Requirements: Bachelor''s degree in computer science, data science, mathematics, or a related field. Advanced proficiency
+    with Python, Java, and R code writing. Extensive knowledge of ML frameworks, libraries, data structures, data modeling,
+    and software architecture. In-depth knowledge of mathematics, statistics, and algorithms. Superb analytical and problem-solving
+    abilities. Great communication and collaboration skills. Excellent time management and organizational abilities. … more'
+  system_score: 89.0
+  system_bucket: A_autoapply
+  label: 'apply'
+- title: Machine Learning Engineer
+  company: Aon Digicon Llp
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-machine-learning-engineer-aon-digicon-llp-bengaluru-1-to-3-years-051026501984
+  apply_type: external_ats
+  experience_min: 1.0
+  experience_max: 3.0
+  salary_raw: ''
+  posted_at: '2026-10-04T20:20:56+00:00'
+  description: 'Design and develop machine learning models and algorithms to solve complex problems. Collaborate with cross-functional
+    teams to integrate machine learning solutions into existing systems. Develop and maintain large-scale data pipelines and
+    architectures. Work on deep learning techniques and implement them using frameworks like TensorFlow or PyTorch. Conduct
+    research and stay updated with the latest advancements in machine learning. Deploy machine learning models in production
+    environments. Disclaimer: This job posting has been aggregated from external source. Role details, content, and availability
+    are subject to change. Applicants are advised to confirm the latest information directly on the company website before
+    applying.'
+  system_score: 86.1
+  system_bucket: B_inbox
+  label: 'inbox'
+- title: Machine Learning Engineer
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4474271570/
+  apply_type: easy_apply
+  experience_min: 2.0
+  experience_max: 2.0
+  salary_raw: ''
+  posted_at: null
+  description: 'Machine Learning Engineer (Python) Experience: 2 Years | Focus: Machine Learning & Python Role Overview We
+    are seeking a Python Machine Learning Engineer with approximately 2 years of hands-on experience in developing, training,
+    evaluating, and deploying machine learning models. The ideal candidate should have a strong foundation in classical machine
+    learning, data preprocessing, feature engineering, statistical analysis, and production-oriented Python development. Note:
+    MLOps, advanced time-series/signal processing, and scientific-data experience are preferred but not mandatory for this
+    role. 1. Core Machine Learning Development Develop and optimize machine learning models using Python and frameworks such
+    as scikit-learn. Basic hands-on experience with deep learning frameworks such as PyTorch or TensorFlow is preferred. Apply
+    supervised and unsupervised learning techniques to real-world problems. Good understanding of Regression, Classification,
+    and Clustering algorithms. Understand model evaluation techniques such as cross-validation, ROC-AUC, Precision, Recall,
+    and F1-score. Perform feature engineering, feature selection, data preprocessing, normalization, and scaling. Understand
+    model training, validation, hyperparameter tuning, and performance optimization. Ability to analyze model results and
+    identify opportunities for improvement. 2. Data Processing & Analysis Strong practical experience with Pandas and NumPy.
+    Ability to clean, transform, analyze, and prepare raw datasets for machine learning. Experience working with structured
+    datasets and building reusable data-processing workflows. Basic understanding of data quality, missing values, outliers,
+    normalization, and feature preparation. Polars is optional. Experience with time-series data is optional/preferred. 3.
+    Deep Learning & Advanced ML (Preferred) Basic practical understanding of neural networks and deep learning concepts. Hands-on
+    experience with CNN, RNN, or LSTM is preferred but not mandatory. Ability to understand and work with existing deep learning
+    models. Experience with time-series modeling, signal processing, peak/event detection, or waveform data is optional. Experience
+    with scientific or instrument-generated datasets, including mass spectrometry data, is a plus but not mandatory. 4. Model
+    Deployment & Software Engineering Develop clean, modular, and production-ready Python code. Basic hands-on experience
+    with FastAPI, Flask, or Django for serving ML models is preferred. Understand how to expose trained models through APIs.
+    Experience with Git and collaborative software development workflows. Ability to write basic unit tests and maintain code
+    quality. Basic Docker knowledge is preferred. 5. MLOps (Optional) Basic understanding of the machine learning lifecycle.
+    Exposure to MLflow, DVC, or similar experiment/model tracking tools is a plus. Basic understanding of model monitoring
+    and model drift is a plus. Basic understanding of CI/CD pipelines for ML deployment is preferred but not mandatory. Experience
+    deploying ML workflows using Docker is a plus. 6. Database & Data Handling Basic to intermediate experience with PostgreSQL
+    or MySQL. Ability to write queries and efficiently retrieve data required for ML workflows. Understanding of data pipelines
+    and ETL concepts. MongoDB or Redis experience is optional. 7. Key Requirements Summary Requirement Category Description
+    Experience 2 years of hands-on experience in Python and Machine Learning. Core ML Strong foundation in classical Machine
+    Learning, practical model development, data preprocessing, feature engineering, model training, and evaluation. Technical
+    Stack Proficiency in Python, Pandas, and NumPy. Practical experience with at least one end-to-end ML project. Software
+    Engineering Good understanding of software engineering practices, Git, and clean Python development. Optional / Plus Deep
+    Learning, MLOps, time-series modeling, signal processing, and scientific/mass-spectrometry data experience. … more'
+  system_score: 81.8
+  system_bucket: A_autoapply
+  label: 'apply'
+- title: Gen AI Engineer
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4474284146/
+  apply_type: easy_apply
+  experience_min: 4.0
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 'Required Skills 4+years of experience in machine learning, deep learning, or Al research, With a focus on
+    Generative/Agentic AI models. Experience With generative models such as GANS (Generative Adversarial Networks), VAEs (Variational
+    Autoencoders), and transformer-based models (e.g., GPT-3/4, BERT, DALL.E). Understanding of model fine-tuning, transfer
+    learning, and prompt engineering in the context Of large language models (LLMS). Knowledge of reinforcement learning (RL)
+    and other advanced machine learning techniques applied to generative tasks. Strong programming skills in python and familiarity
+    with relevant libraries and frameworks. proven experience in document detail extraction and feature engineering. Proficiency
+    in data processing and manipulation techniques. Hands-on experience in building data applications using Streamlit or similar
+    tools. Advanced knowledge in prompt engineering, chain of thought processes, and Al agents. Excellent problem-solving
+    skills and the ability to work effectively in a collaborative environment. Strong communication skills to convey complex
+    technical concepts to non-technical stakeholders. Good to Have: Experience in the [banking/financial services/CPG/Supply
+    chain Familiarity with cloud-based machine learning platforms such as Azure, AWS, or GCP. Proven experience working with
+    OpenAl or similar large language models (LLMs). Certifications in Data Science, Machine Learning, or Al.'
+  system_score: 69.3
+  system_bucket: C_discard
+  label: 'discard'
+- title: MLOps Engineer
+  company: Infosys
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-mlops-engineer-infosys-limited-bengaluru-5-to-10-years-300926927235
+  apply_type: naukri_apply
+  experience_min: 5.0
+  experience_max: 10.0
+  salary_raw: ''
+  posted_at: '2026-10-04T20:20:57+00:00'
+  description: 'Job DescriptionWe are seeking an experienced MLOps Engineer with strong expertise in deploying, managing,
+    and optimizing machine learning workloads in production environments. This role is primarily focused on MLOps (60%), supported
+    by AWS Cloud (25%) and DevOps (15%) capabilities. The ideal candidate will have hands-on ownership of the end-to-end ML
+    lifecycle, including model training, deployment, monitoring, automation, performance optimization, and retraining. Strong
+    experience with AWS services, CI/CD pipelines, containerization, infrastructure automation, and production-grade ML platforms
+    is essential. This is not a generic DevOps role; candidates must demonstrate proven experience in operationalizing and
+    maintaining ML models at scale in cloud environments. Roles Responsibilities 5+ yrs DevOps/Cloud/MLOps experience; Python
+    for scripting and automation Strong with Jenkins, Git, Docker, EKS troubleshooting AWS: SageMaker, Lambda, S3, ECS, IAM,
+    RDS, infra creation IaC: CloudFormation (CFT) and Terraform MLOps: build/operate ML pipelines deploying to SageMaker,
+    Databricks, or Lambda Technical Requirement1. SageMaker 2. MLflow 3. Kubeflow 4. Databricks 5. MLOps 6. Model Deployment
+    7. Model Monitoring 8. Model Retraining 9. Feature Store 10. CI/CD for ML 11. Training Pipelines 12. Inference Pipelines
+    13. Drift Detection 14. Docker 15. Kubernetes/EKS 16. Terraform 17. CloudFormation 18. AWS Lambda 19. Python Automation
+    Educational RequirementMCA,MSc,MTech,Bachelor of Engineering,BTech Preferred SkillsTechnology->AI-AI Engineering->MLOps,Technology->AI-Data
+    science->Machine Learning,Technology->Devops->Ansible,Technology->OpenSystem->Python - OpenSystem Service LineData Analytics
+    Unit'
+  system_score: 63.1
+  system_bucket: C_discard
+  label: 'discard'
+- title: Artificial Intelligence Consultant
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4475534314/
+  apply_type: easy_apply
+  experience_min: 7.0
+  experience_max: 7.0
+  salary_raw: ''
+  posted_at: null
+  description: THIS IS A LONG TERM CONTRACT POSITION WITH ONE OF THE LARGEST GLOBAL TECHNOLOGY LEADERS. About the Role Our
+    client is looking for an experienced AI/ML Engineer to build enterprise-grade chatbots and intelligent assistants using
+    state-of-the-art LLM and Generative AI technologies. The role focuses on finance data, RAG-based architectures, hallucination
+    mitigation, and agentic AI systems deployed at scale. You will collaborate closely with Product, Data, and Platform teams
+    to deliver reliable, explainable, and production-ready AI solutions. Minimum Qualifications 5–7 years of relevant professional
+    experience in AI/ML Engineering. Strong hands-on programming experience with Python and SQL. Experience building LLM-powered
+    applications, chatbots, or intelligent assistants. Hands-on experience with RAG architectures, retrieval pipelines, embeddings,
+    and vector databases. Experience with LLMs such as OpenAI GPT, Anthropic, Gemini, or Llama. Experience with agentic AI
+    frameworks such as LangChain and/or LangGraph. Understanding of tool calling, Agent-to-Agent (A2A) architectures, and
+    multi-step AI workflows. Experience implementing techniques to reduce LLM hallucinations, including grounding, re-ranking,
+    citations, and confidence scoring. Experience deploying and monitoring AI/ML applications using cloud and MLOps practices.
+    Hands-on experience with AWS services such as S3, EC2, ECS, Lambda, SageMaker, or CodePipeline. Experience implementing
+    CI/CD pipelines for AI/ML applications and inference services. Experience working with structured and unstructured enterprise
+    data. Strong understanding of LLM evaluation, prompt/version management, and AI observability. Key Responsibilities Build
+    LLM-powered chatbots and intelligent assistants using OpenAI, RAG, tool calling, and agent frameworks such as LangChain
+    and LangGraph. Design Agent-to-Agent (A2A) architectures for multi-step reasoning and autonomous workflows. Design and
+    implement retrieval pipelines using embeddings, vector databases, hybrid search, and cross-encoders. Implement hallucination
+    mitigation techniques including grounding, re-ranking, citations, and confidence scoring. Work with finance and enterprise
+    datasets while ensuring accuracy, reliability, and data governance. Deploy, monitor, and operate AI systems using cloud-native
+    and MLOps practices. Implement and maintain CI/CD pipelines for AI pipelines and inference services. Develop and maintain
+    evaluation frameworks for measuring the quality and reliability of LLM applications. Apply observability and evaluation
+    tools such as LangSmith, MLflow, and Weights & Biases. Work with data platforms and pipelines involving Snowflake, DBT,
+    structured data, and unstructured data. Collaborate with Product, Data, and Platform teams to deliver scalable, explainable,
+    and production-ready AI solutions. Our large, Fortune Technology client is ranked as one of the best companies to work
+    with, in the world. As a global leader in 3D design, engineering, and entertainment software, they foster progressive
+    culture, creativity, and a flexible work environment. They use cutting-edge technologies to keep themselves ahead of the
+    curve. Diversity in all aspects is respected. Integrity, experience, honesty, people, humanity, and passion for excellence
+    are some other adjectives that define this global technology leader. … more
+  system_score: 54.5
+  system_bucket: C_discard
+  label: 'discard'
+- title: AI/ML Engineer
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4474266154/
+  apply_type: easy_apply
+  experience_min: 5.0
+  experience_max: 8.0
+  salary_raw: ''
+  posted_at: null
+  description: 'AI/ML Engineer (5-8 Years) | PAN India Experience: 5-8 Years Location: PAN India Looking for an experienced
+    AI/ML Engineer with strong expertise in Machine Learning, Generative AI, and AWS cloud technologies. The candidate will
+    be responsible for building, deploying, and optimizing scalable ML solutions, developing GenAI applications, and implementing
+    MLOps best practices for enterprise use cases. Key Responsibilities Design, train, deploy, and monitor ML models using
+    AWS SageMaker. Build end-to-end ML pipelines including data preprocessing, feature engineering, model training, and deployment.
+    Develop predictive analytics solutions using Scikit-learn, TensorFlow, PyTorch, XGBoost, and LightGBM. Build GenAI solutions
+    using GPT, Llama, Gemini, LangChain, LlamaIndex, AI Agents, and RAG frameworks. Implement MLOps practices including CI/CD,
+    model versioning, monitoring, and automated deployments. Integrate AI/ML solutions with AWS services such as S3, Lambda,
+    Glue, IAM, CloudWatch, and REST APIs. Collaborate with business and technical stakeholders to deliver scalable AI-driven
+    solutions. Required Skills Programming: Python, SQL ML Frameworks: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM
+    Generative AI: GPT APIs, LangChain, LlamaIndex, RAG, AI Agents, Prompt Engineering Cloud: AWS SageMaker, S3, Lambda, Glue,
+    CloudWatch, IAM MLOps: SageMaker Pipelines, Model Registry, Docker, Jenkins, Git Data Engineering: Pandas, NumPy, Athena
+    Strong understanding of model evaluation, feature engineering, and deployment best practices Good to Have Geospatial Analytics
+    (ArcGIS, GeoPandas, GDAL, OSMnx) Computer Vision and Multimodal AI Experience in enterprise automation, RFPs, and PoC
+    development Preferred Experience 5-8 years overall IT experience with 3+ years in AI/ML. Hands-on experience deploying
+    production-grade AI/ML solutions on AWS. Experience building GenAI applications and AI-powered automation solutions. …
+    more'
+  system_score: 52.0
+  system_bucket: C_discard
+  label: 'discard'
+- title: Python Developer
+  company: Techasoft
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-techasoft-bengaluru-0-to-2-years-120826502637
+  apply_type: external_ats
+  experience_min: 0.0
+  experience_max: 2.0
+  salary_raw: ''
+  posted_at: null
+  description: 'Python Developers In Bangalore Android Developer Techasoft Private Limited Location: Bangalore Experience:
+    2+ Years Responsibilities Write clean, well- designed code Produce detailed specifications Troubleshoot, test and maintain
+    the core product software and databases to ensure strong optimization and functionality Contribute in all phases of the
+    development lifecycle Follow industry best practices Develop and deploy new features to facilitate related procedures
+    and tools if necessary. Requirements Must have experience in building web applications in Python/Django Knows best practices
+    for front- end development Strong knowledge of Javascript APIs. Able to handle multiple databases in Django. Knows how
+    to do multiple environments (production/ staging) setup in Django. Knows how to set up/deploy Django apps in AWS. Web
+    frameworks and RESTful APIs Object-relational mapping, OOPS Knowledge of MongoDB, PostgreSQL ,MySQL Familiar with Docker/Docker-
+    compose Creating predictive models Ability to integrate databases and various data sources into a unified system AI, ML,
+    Deep Learning, Neural networking Data visualization, statistics, data analytics Libraries like Selenium, Tensorflow, Scikit-learn,
+    pandas, numpy, openCV etc Disclaimer: This job posting has been aggregated from external source. Role details, content,
+    and availability are subject to change. Applicants are advised to confirm the latest information directly on the company
+    website before applying.'
+  system_score: 51.1
+  system_bucket: C_discard
+  label: 'discard'
+- title: Data Science Architect (retail domain expert)
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4469428318/
+  apply_type: easy_apply
+  experience_min: 15.0
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 15+ years of software engineering/technology experience, including substantial hands-on experience architecting
+    and engineering enterprise AI/ML/GenAI systems. Strong foundation in machine learning, including supervised and unsupervised
+    learning, feature engineering, model selection, evaluation, experimentation and optimization. Strong deep learning expertise
+    with practical experience in neural network architectures such as transformers, CNNs, sequence models and representation/embedding
+    learning. Strong expertise in Generative AI, LLMs, RAG, AI Agents and Agentic AI, including tool use, orchestration, memory/context
+    strategies and evaluation. Hands-on proficiency in Python and modern AI/ML frameworks such as PyTorch, TensorFlow/Keras,
+    scikit-learn and related model development libraries. Proven experience deploying AI/ML/GenAI solutions to production,
+    including real-time and batch inference, API/model serving, scalability, resilience and performance optimization. Strong
+    experience with MLOps/LLMOps, including experiment tracking, model/prompt versioning, CI/CD, model registries, automated
+    testing/evaluation, monitoring, drift detection and lifecycle management. Experience with AWS, Azure and/or GCP, including
+    AI/ML platforms and services such as Azure Machine Learning/Azure OpenAI, AWS SageMaker/Bedrock or Google Vertex AI. Strong
+    understanding of embeddings, vector databases, retrieval techniques, prompt/context engineering, LLM evaluation and grounding/citation
+    approaches. Experience with data and feature pipelines, distributed processing and the data engineering patterns required
+    to support production AI systems. Experience with Docker, Kubernetes, Git, CI/CD, APIs/microservices and modern software
+    engineering practices for production AI applications. Strong understanding of AI security, privacy, governance, explainability,
+    bias/fairness, model risk and responsible AI. Proven experience building enterprise AI platforms, reusable accelerators,
+    shared AI services or AI Centers of Excellence. Ability to make sound architecture trade-offs across classical ML, deep
+    learning and GenAI approaches based on accuracy, latency, cost, maintainability, data availability and business value.
+    Strong retail, digital commerce or customer experience domain experience preferred. Excellent communication, consulting,
+    stakeholder management and client-facing skills, with the ability to engage effectively with both CXO-level stakeholders
+    and hands-on engineering teams.
+  system_score: 46.6
+  system_bucket: C_discard
+  label: 'discard'
+- title: Senior Machine Learning Engineer
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4473619111/
+  apply_type: easy_apply
+  experience_min: 5.0
+  experience_max: 10.0
+  salary_raw: ''
+  posted_at: null
+  description: 'About Position: We are seeking a highly skilled Senior Machine Learning Engineer to own and enhance the product-sizing
+    capability of a cloud-based, cloud-agnostic telecom analytics platform. The platform is designed to support consistent
+    deployments across public, private, and hybrid cloud environments. This role blends machine learning, performance engineering,
+    capacity planning, software development, and telemetry analytics to build accurate sizing models and optimize platform
+    deployments. The ideal candidate will work closely with product, engineering, support, and customer teams to deliver scalable,
+    data-driven solutions that improve infrastructure planning, resource utilization, and customer experience. Role: Senior
+    ML Engineer Location: Pune Experience: 5 to 10 Years Job Type: Full Time Employment What You''ll Do: Design, implement,
+    validate, and maintain sizing models for product components and end-to-end platform deployments. Model infrastructure
+    requirements including CPU, memory, storage capacity, disk IOPS, throughput, network bandwidth, pod counts, worker threads,
+    Redis shards, and operational headroom based on customer workloads. Develop and improve data-driven sizing methodologies
+    using statistical analysis and machine learning techniques. Support telecom workload dimensions such as PPS, EPS, OPS,
+    protocol mix, call rates, active subscribers, concurrent sessions, recording volumes, retention periods, replication requirements,
+    and high-availability topologies. Enhance existing regression-based sizing approaches using multivariate regression, clustering,
+    time-series forecasting, nonlinear models, and other machine learning techniques where appropriate. Evaluate model performance
+    using holdout datasets, cross-validation strategies, confidence intervals, prediction intervals, sensitivity analysis,
+    and error metrics. Detect and investigate outliers, missing data, configuration drift, throttling, system saturation,
+    and non-representative workloads while preserving critical operational evidence. Define model applicability boundaries,
+    minimum data-quality thresholds, and conservative fallback mechanisms to prevent unsafe extrapolation. Build and maintain
+    version-controlled Python-based telemetry collectors for Linux and Kubernetes environments. Modernize legacy collection
+    frameworks by replacing Bash, Perl, and Python 2 based implementations where feasible. Safely execute approved telemetry
+    collection tools in customer environments, both remotely and on-site, while collaborating with support and operations
+    teams. Collect workload, infrastructure, network, storage, application, and Redis telemetry with minimal impact on production
+    systems. Engineer telemetry collectors that are read-only by default and designed with resource limits, timeout controls,
+    retry handling, dry-run capabilities, graceful shutdown, progress indicators, and auditable logging. Collaborate with
+    cross-functional teams including Product Management, Engineering, Support Services, Professional Services, and Customer
+    Operations. Contribute to performance analysis, capacity planning recommendations, deployment guidance, and continuous
+    platform improvements. Expertise You''ll Bring: 5 to 10 years of experience in Machine Learning, Performance Engineering,
+    Capacity Planning, or Solution Sizing. Strong experience modeling CPU, memory, storage, network, and Kubernetes resource
+    requirements from operational and workload data. Hands-on experience analyzing distributed systems performance, scalability,
+    latency, throughput, reliability, and high-availability architectures. Knowledge of telecom workload characteristics including
+    PPS, EPS, OPS, protocol mix, subscriber volumes, call rates, retention requirements, replication, and HA deployments.
+    Experience defining model applicability limits, uncertainty measurements, confidence intervals, sensitivity analysis,
+    and error-based model validation. Strong understanding of outlier detection, data quality validation, anomaly identification,
+    and safe model extrapolation practices. Advanced Python development skills with experience using pandas, NumPy, SciPy,
+    scikit-learn, Jupyter Notebooks, and automated testing frameworks. Proven experience building, validating, and deploying
+    statistical and machine learning models using operational and production data. Strong knowledge of multivariate regression,
+    time-series forecasting, clustering techniques, nonlinear modeling approaches, and predictive analytics. Experience evaluating
+    model quality using cross-validation, holdout testing, performance metrics, and iterative model improvement techniques.
+    Strong Linux administration and troubleshooting experience. Hands-on expertise with Kubernetes, including containers,
+    pods, resource allocation, CPU throttling, memory utilization, storage management, networking, and observability tools.
+    Experience collecting and analyzing production telemetry in cloud-native and distributed environments. Understanding of
+    secure production diagnostics, customer privacy requirements, least-privilege principles, and change-controlled operational
+    processes. Strong analytical, problem-solving, communication, and stakeholder management skills. Ability to work independently
+    and drive technical solutions from concept to deployment. Benefits: Competitive salary and benefits package Culture focused
+    on talent development with quarterly growth opportunities and company-sponsored higher education and certifications Opportunity
+    to work with cutting-edge technologies Employee engagement initiatives such as project parties, flexible work hours, and
+    Long Service awards Annual health check-ups Insurance coverage: group term life, personal accident, and Mediclaim hospitalization
+    for self, spouse, two children, and parents Values-Driven, People-Centric & Inclusive Work Environment: Persistent is
+    dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals,
+    including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all
+    backgrounds. We support hybrid work and flexible hours to fit diverse lifestyles. Our office is accessibility-friendly,
+    with ergonomic setups and assistive technologies to support employees with physical disabilities. If you are a person
+    with disabilities and have specific requirements, please inform us during the application process or at any time during
+    your employment Let''s unleash your full potential at Persistent - persistent.com/careers "Persistent is an Equal Opportunity
+    Employer and prohibits discrimination and harassment of any kind." … more'
+  system_score: 45.0
+  system_bucket: C_discard
+  label: 'discard'
+- title: Data Science Architect (expert in python coding)
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4474298397/
+  apply_type: easy_apply
+  experience_min: 15.0
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 15+ years of software engineering/technology experience, including substantial hands-on experience architecting
+    and engineering enterprise AI/ML/GenAI systems. Strong foundation in machine learning, including supervised and unsupervised
+    learning, feature engineering, model selection, evaluation, experimentation and optimization. Strong deep learning expertise
+    with practical experience in neural network architectures such as transformers, CNNs, sequence models and representation/embedding
+    learning. Strong expertise in Generative AI, LLMs, RAG, AI Agents and Agentic AI, including tool use, orchestration, memory/context
+    strategies and evaluation. Hands-on proficiency in Python and modern AI/ML frameworks such as PyTorch, TensorFlow/Keras,
+    scikit-learn and related model development libraries. Proven experience deploying AI/ML/GenAI solutions to production,
+    including real-time and batch inference, API/model serving, scalability, resilience and performance optimization. Strong
+    experience with MLOps/LLMOps, including experiment tracking, model/prompt versioning, CI/CD, model registries, automated
+    testing/evaluation, monitoring, drift detection and lifecycle management. Experience with AWS, Azure and/or GCP, including
+    AI/ML platforms and services such as Azure Machine Learning/Azure OpenAI, AWS SageMaker/Bedrock or Google Vertex AI. Strong
+    understanding of embeddings, vector databases, retrieval techniques, prompt/context engineering, LLM evaluation and grounding/citation
+    approaches. Experience with data and feature pipelines, distributed processing and the data engineering patterns required
+    to support production AI systems. Experience with Docker, Kubernetes, Git, CI/CD, APIs/microservices and modern software
+    engineering practices for production AI applications. Strong understanding of AI security, privacy, governance, explainability,
+    bias/fairness, model risk and responsible AI. Proven experience building enterprise AI platforms, reusable accelerators,
+    shared AI services or AI Centers of Excellence. Ability to make sound architecture trade-offs across classical ML, deep
+    learning and GenAI approaches based on accuracy, latency, cost, maintainability, data availability and business value.
+    Strong retail, digital commerce or customer experience domain experience preferred. Excellent communication, consulting,
+    stakeholder management and client-facing skills, with the ability to engage effectively with both CXO-level stakeholders
+    and hands-on engineering teams.
+  system_score: 42.5
+  system_bucket: C_discard
+  label: 'discard'
+- title: GenAI Developer | Python
+  company: Infosys
+  location: Bengaluru, Hyderabad, Chennai
+  source: naukri
+  url: https://www.naukri.com/job-listings-genai-developer-python-infosys-hyderabad-chennai-bengaluru-3-to-5-years-240826012168
+  apply_type: naukri_apply
+  experience_min: 3.0
+  experience_max: 5.0
+  salary_raw: ''
+  posted_at: null
+  description: 'Key Responsibilities: - Design and implement advanced Generative AI models to solve complex problems. - Collaborate
+    with cross-functional teams to integrate AI solutions into existing systems. - Conduct research and stay updated with
+    the latest advancements in NLP and AI technologies. - Develop scalable and efficient AI algorithms to enhance product
+    offerings. - Mentor junior team members and share knowledge to foster a culture of learning. Minimum Qualifications: -
+    Bachelor''s degree in Technology (B.Tech) or related field. - 5+ years of experience in Generative AI, NLP, and Artificial
+    Intelligence. - Proven track record of successfully deploying AI models in production environments. Preferred Qualifications:
+    - Strong communication skills to effectively collaborate with stakeholders. - Experience with AI frameworks and libraries
+    such as TensorFlow, PyTorch, or similar. - Ability to work independently and manage multiple projects simultaneously.
+    - Demonstrated problem-solving skills and a proactive approach to challenges. Good to have skills: Machine Learning, Data
+    Analysis, Deep Learning, Python Programming, Cloud Computing Preferred Skills: Technology->Machine Learning->Generative
+    AI'
+  system_score: 40.9
+  system_bucket: C_discard
+  label: 'apply'
+- title: python developer
+  company: Pentoz Technology
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-pentoz-bengaluru-2-to-6-years-150126502079
+  apply_type: unknown
+  experience_min: 2.0
+  experience_max: 6.0
+  salary_raw: ''
+  posted_at: null
+  description: v Experience in Web technologies-HTML, CSS, Javascript. . v Database - SQL Server / Pos...
+  system_score: 40.5
+  system_bucket: C_discard
+  label: 'apply'
+- title: Machine Leaning Engineering (P2) Professional
+  company: Nielsen Sports
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-machine-leaning-engineering-p2-professional-nielsen-sports-bengaluru-3-to-6-years-051026504145
+  apply_type: external_ats
+  experience_min: 3.0
+  experience_max: 6.0
+  salary_raw: ''
+  posted_at: '2026-10-04T20:20:58+00:00'
+  description: 'As a Machine Learning Engineer at this level, you will be a key contributor to our team, responsible for building
+    and deploying end-to-end machine learning models. You will work with a degree of autonomy on well-defined projects, translating
+    business needs into functional and scalable ML solutions. This role is perfect for hands-on ML Engineers looking to deepen
+    their expertise and take on more complex challenges. Responsibilities : Independently build, train, and deploy machine
+    learning models for complex projects. Design and maintain robust, end-to-end ML pipelines, from data processing to model
+    serving. Contribute to technical design discussions and provide input on system architecture and best practices. Collaborate
+    with business, product, and other engineering teams to understand requirements and translate them into technical specifications.
+    Write high-quality, production-ready code and participate in code reviews to maintain our standards of excellence. Mentor
+    interns or junior engineers, sharing your knowledge and expertise. Qualifications Basic Qualifications: Bachelors or Masters
+    degree in Engineering, Mathematics, Statistics, or a related field. 3-6 years of professional experience in machine learning
+    engineering. Proven experience in building and deploying ML models in a production environment. Strong proficiency in
+    Python, SQL, and experience with a distributed computing framework (e.g., Spark). Data Analytics Experience: Strong background
+    in data analytics, including statistical analysis, data visualization, and reporting to derive business insights. AI Experience:
+    Practical, hands-on experience with modern AI frameworks and techniques, including LLMs or Generative AI applications.
+    Familiarity with workflow orchestration tools (e.g., Airflow) and ML platforms (e.g., MLflow) is preferred. Knowledge
+    of classification models, regression models, anomaly detection, boosted models, deep learning, and simulation problems,
+    particularly with large datasets. Strong problem-solving skills and the ability to work independently on projects. Disclaimer:
+    This job posting has been aggregated from external source. Role details, content, and availability are subject to change.
+    Applicants are advised to confirm the latest information directly on the company website before applying.'
+  system_score: 40.0
+  system_bucket: C_discard
+  label: 'apply'
+- title: Data Scientist I
+  company: Kroll
+  location: Bengaluru, New Delhi, Hyderabad
+  source: naukri
+  url: https://www.naukri.com/job-listings-data-scientist-i-kroll-llc-new-delhi-hyderabad-bengaluru-1-to-3-years-051026930564
+  apply_type: naukri_apply
+  experience_min: 1.0
+  experience_max: 3.0
+  salary_raw: ''
+  posted_at: '2026-10-04T20:21:01+00:00'
+  description: 'Kroll is hiring a Data Scientist to join its Enterprise Data Group. This role is ideal for an early- to mid-career
+    practitioner who is eager to develop deep expertise across the ML lifecycle while contributing to high-impact work in
+    a sophisticated, collaborative data science team. Our program spans fintech product development, digital transformation,
+    process automation with machine learning, business intelligence, data governance, and generative AI. You will be embedded
+    in a team of experienced data scientists and engineers who will invest in your growth - and work alongside professionals
+    from the world''s largest financial institutions, law enforcement agencies, and government bodies. At Kroll, your work
+    will help deliver clarity to our clients'' most complex governance, risk, and transparency challenges. Responsibilities
+    Build, train, and evaluate machine learning models across traditional ML, NLP, and LLM/GenAI use cases, under the guidance
+    of senior team members Contribute to data pipelines and feature engineering workflows in Databricks using PySpark and
+    Delta Lake Support model deployment and monitoring on Azure - including Azure AI Foundry, Azure OpenAI, and Azure Functions
+    - and help maintain production model health Contribute to LLM and generative AI workflows - including prompt engineering,
+    RAG pipelines, and agentic applications built on frameworks such as LangChain or LlamaIndex - under the guidance of senior
+    team members Conduct exploratory data analysis and communicate findings clearly through code, documentation, and team
+    presentations Write clean, well-tested, and reproducible Python code; contribute to shared codebases and track experiments
+    via MLflow Partner with senior data scientists and cross-functional stakeholders to understand business problems and translate
+    them into analytical approaches Participate actively in code reviews, team rituals, and knowledge-sharing sessions Develop
+    your skills proactively - engage with new tools, research, and techniques relevant to the team''s work Requirements Bachelor''s
+    or Master''s degree in computer science, statistics, mathematics, data science, or a related quantitative field 1-3 years
+    of practical data science or ML experience (internships, co-ops, research, and strong project work all count) Proficiency
+    in Python and familiarity with core ML libraries (scikit-learn, pandas, NumPy) Solid understanding of foundational ML
+    concepts: supervised and unsupervised learning, model evaluation, cross-validation, and feature engineering Exposure to
+    at least one deep learning or NLP framework (PyTorch, TensorFlow, or Hugging Face Transformers) and familiarity with LLM
+    concepts such as prompt engineering, embeddings, or retrieval-augmented generation Comfort working with structured and
+    unstructured data, including text and document-based sources Basic understanding of the ML lifecycle - from data preparation
+    and experimentation through evaluation and handoff Clear, organised communication skills - able to document work and explain
+    methods to peers and stakeholders Curiosity, rigour, and a strong drive to learn in a fast-paced, collaborative environment
+    Preferred Hands-on experience with Databricks, Spark/PySpark, or cloud ML platforms (Azure AI Foundry, AWS SageMaker,
+    or GCP Vertex AI) Hands-on experience with LLM/GenAI and agentic workflows - prompt engineering, RAG, embeddings, vector
+    databases, or building with frameworks such as LangChain, LlamaIndex, or Semantic Kernel Familiarity with MLflow or other
+    experiment tracking and model versioning tools Experience in financial services, risk, compliance, or a regulated industry
+    Knowledge of responsible AI principles, including fairness, transparency, and data privacy Location - New Delhi,Bengaluru,Hyderabad,Mumbai'
+  system_score: 40.0
+  system_bucket: C_discard
+  label: 'apply'
+- title: Data Scientist - Reinsurance Solutions
+  company: Aon
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-data-scientist-reinsurance-solutions-aon-bengaluru-2-to-7-years-051026504673
+  apply_type: external_ats
+  experience_min: 2.0
+  experience_max: 7.0
+  salary_raw: ''
+  posted_at: '2026-10-04T20:21:02+00:00'
+  description: 'Job Summary Job Title- Data Scientist - Reinsurance Solutions. Position type- Full Time. Work Location- Bangalore,
+    Whitefield. Working style- In Office (Hybrid). Cab Facility- Yes. Shift Time- 7.30 AM to 4.30 PM. People Manager role:
+    No. Required education and certifications critical for the role- Master s degree. General Description of Role As a Data
+    Scientist, you will be working in the International Natural Catastrophe Research Team which consists of 30 people based
+    in India, UK, Singapore, Japan, and Australia. Most of the team have a technical background in Natural Catastrophe Modelling
+    and peril specialisms (Meteorologists, Hydrologists, Geologists and Structural Engineers) with proficiencies in data science
+    and programming. The team s goal is to analyse the associated risk of natural perils, evaluate vendor Catastrophe models
+    (RMS/Verisk) and build out independent views of risk. Job Responsibilities Identify and extract data from multiple sources
+    into a common format. Perform data validation, data exploration and feature engineering. Apply geospatial analysis to
+    obtain meaningful insight from geospatial data. Research, recommend and implement statistical models appropriate for the
+    given data. Utilise advanced machine learning, analytical and optimisation techniques to develop models to solve Aon s
+    business problems. Support Aon reinsurance research team with their activities and develop novel products. Become familiar
+    with Aon s internal workflow tools and integrate bespoke research workflows. Develop bespoke solutions to optimise existing
+    research workflows. Translate analytical findings as business insight to stakeholders. Developing dashboards to display
+    analytics both internally and externally of Aon. Skills and Knowledge Advanced level of knowledge with: Python or R, or
+    any other scripting language. SQL Advanced level of knowledge with statistical techniques: Linear and Logistical Regression
+    Decision Tree Random Forest Mid-Advanced level of knowledge with: Experience in Databricks and Snowflake. Version control
+    systems used for software development, specifically Git. Knowledge and understanding of key Machine Learning and Data
+    Science principles, consideration, and applications. Willingness to work collaboratively within a global team. Excellent
+    problem-solving skills with an attention to detail. Well organised with an ability to manage multiple projects proficiently.
+    Testing code and adjusting until programs work reliably as required and identifying and correcting program bugs. Willingness
+    to understand Aon s internal workflows and the research that the team undertakes. Knowledge of Apache Spark (Pyspark)
+    Familiarity with Tableau Knowledge of GIS programs and file types (ArcGIS, QGIS) Qualifications Master s degree Disclaimer:
+    This job posting has been aggregated from external source. Role details, content, and availability are subject to change.
+    Applicants are advised to confirm the latest information directly on the company website before applying.'
+  system_score: 40.0
+  system_bucket: C_discard
+  label: 'apply'
+- title: Data Scientist
+  company: Apptad
+  location: Bengaluru, Hyderabad, Pune
+  source: naukri
+  url: https://www.naukri.com/job-listings-data-scientist-apptad-hyderabad-pune-bengaluru-6-to-11-years-051026036513
+  apply_type: naukri_apply
+  experience_min: 6.0
+  experience_max: 11.0
+  salary_raw: 15-30 Lacs PA
+  posted_at: '2026-10-04T20:21:02+00:00'
+  description: 'HIRING: DATA SCIENTIST | RIYADH, SAUDI ARABIA We are looking for an experienced Data Scientist to join our
+    team in Riyadh, Saudi Arabia. Location: Riyadh, Saudi Arabia Onsite Experience: 6+ Years Salary: 35 LPA Fixed Joining:
+    Immediate Joiners Only Relocation: Candidates willing to relocate from India to Saudi Arabia Passport: Valid Passport
+    is Mandatory Key Skills Required Strong experience in Python & SQL Big Data technologies Machine Learning Statistical
+    Analysis ETL & Data Engineering Azure Data Factory (ADF) Power BI / Tableau Strong hands-on experience with: Regression
+    Time Series Analysis Clustering Classification A/B Testing Predictive Analytics Candidate Requirements 6+ years of relevant
+    Data Science experience Strong hands-on experience across the above technologies Valid passport is mandatory Must be an
+    immediate joiner Should be willing to relocate to Riyadh, Saudi Arabia Candidates currently based in India preferred Relocation
+    & Visa Interview Process 1 Recruiter Screening 2 Internal IT Director Round 3 Client Round Interested candidates can share
+    their updated CV along with: Total Experience Relevant Data Science Experience Current Location Notice Period / Immediate
+    Availability Passport Status Current & Expected CTC Interested candidates may DM me or share their CV. #Hiring #DataScientist
+    #DataScienceJobs #PythonJobs #SQLJobs #MachineLearning #BigData #Azure #AzureDataFactory #PowerBI #Tableau #ETL #SaudiArabiaJobs
+    #RiyadhJobs #OverseasJobs #GulfJobs #ImmediateJoiner #SaudiArabia #Riyadh #KGISRole & responsibilities Preferred candidate
+    profile Perks and benefits'
+  system_score: 40.0
+  system_bucket: C_discard
+  label: 'discard'
+- title: GenAI Developer | Python
+  company: Infosys
+  location: Hybrid - Bengaluru, Hyderabad, Chennai
+  source: naukri
+  url: https://www.naukri.com/job-listings-genai-developer-python-infosys-hyderabad-chennai-bengaluru-3-to-7-years-051026042772
+  apply_type: naukri_apply
+  experience_min: 3.0
+  experience_max: 7.0
+  salary_raw: ''
+  posted_at: null
+  description: 'Key Responsibilities: - Design and implement advanced Generative AI models to solve complex problems. - Collaborate
+    with cross-functional teams to integrate AI solutions into existing systems. - Conduct research and stay updated with
+    the latest advancements in NLP and AI technologies. - Develop scalable and efficient AI algorithms to enhance product
+    offerings. - Mentor junior team members and share knowledge to foster a culture of learning. Minimum Qualifications: -
+    Bachelor''s degree in Technology (B.Tech) or related field. - 5+ years of experience in Generative AI, NLP, and Artificial
+    Intelligence. - Proven track record of successfully deploying AI models in production environments. Preferred Qualifications:
+    - Strong communication skills to effectively collaborate with stakeholders. - Experience with AI frameworks and libraries
+    such as TensorFlow, PyTorch, or similar. - Ability to work independently and manage multiple projects simultaneously.
+    - Demonstrated problem-solving skills and a proactive approach to challenges. Good to have skills: Machine Learning, Data
+    Analysis, Deep Learning, Python Programming, Cloud Computing Preferred Skills: Technology->Machine Learning->Generative
+    AI'
+  system_score: 40.0
+  system_bucket: C_discard
+  label: 'apply'
+- title: Python Developer
+  company: Quantumzyme
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-quantumzyme-bengaluru-2-to-5-years-030925502651
+  apply_type: external_ats
+  experience_min: 2.0
+  experience_max: 5.0
+  salary_raw: ''
+  posted_at: null
+  description: Quantumzyme is looking for Python Developer to join our dynamic team and embark on a rewarding career journey
+    Coordinating with development teams to determine application requirements. Writing scalable code using Python programming
+    language. Testing and debugging applications. Developing back-end components. Integrating user-facing elements using server-side
+    logic. Assessing and prioritizing client feature requests. Integrating data storage solutions. Reprogramming existing
+    databases to improve functionality. Developing digital tools to monitor online traffic. Write effective, scalable code
+    Develop back-end components to improve responsiveness and overall performance Integrate user-facing elements into applications
+    Test and debug programs Improve functionality of existing systems Implement security and data protection solutions Assess
+    and prioritize feature requests Coordinate with internal teams to understand user requirements and provide technical solutions.
+  system_score: 40.0
+  system_bucket: C_discard
+  label: 'apply'
+- title: Python Developer
+  company: Sixth Circle Technologies
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-sixth-circle-technologies-bengaluru-3-to-5-years-031024500190
+  apply_type: external_ats
+  experience_min: 3.0
+  experience_max: 5.0
+  salary_raw: ''
+  posted_at: null
+  description: Sixth Circle Technologies is looking for Python Developer to join our dynamic team and embark on a rewarding
+    career journey Coordinating with development teams to determine application requirements. Writing scalable code using
+    Python programming language. Testing and debugging applications. Developing back-end components. Integrating user-facing
+    elements using server-side logic. Assessing and prioritizing client feature requests. Integrating data storage solutions.
+    Reprogramming existing databases to improve functionality. Developing digital tools to monitor online traffic. Write effective,
+    scalable code Develop back-end components to improve responsiveness and overall performance Integrate user-facing elements
+    into applications Test and debug programs Improve functionality of existing systems Implement security and data protection
+    solutions Assess and prioritize feature requests Coordinate with internal teams to understand user requirements and provide
+    technical solutions. ,
+  system_score: 40.0
+  system_bucket: C_discard
+  label: 'apply'
+- title: Python Developer
+  company: Mobile Programming
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-mobileprogramming-bengaluru-3-to-6-years-180526503727
+  apply_type: unknown
+  experience_min: 3.0
+  experience_max: 6.0
+  salary_raw: ''
+  posted_at: null
+  description: We are looking for a skilled Python Developer to join our growing engineering team in ...
+  system_score: 38.9
+  system_bucket: C_discard
+  label: 'discard'
+- title: Python Developer
+  company: Pegasus Knowledge Solutions (PKSI)
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-pegasus-knowledge-solutions-india-private-limited-bengaluru-2-to-6-years-290121501232
+  apply_type: unknown
+  experience_min: 2.0
+  experience_max: 6.0
+  salary_raw: ''
+  posted_at: null
+  description: Strong Python skills along with web frameworks such as Django/Flask HTML/CSS, kno...
+  system_score: 38.9
+  system_bucket: C_discard
+  label: 'apply'
+- title: Python Developer
+  company: 47billion
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-47-billion-information-technologies-private-limited-bengaluru-0-to-3-years-270726500368
+  apply_type: unknown
+  experience_min: 0.0
+  experience_max: 3.0
+  salary_raw: ''
+  posted_at: null
+  description: '- Write effective, scalable code - Develop back-end components to improve respo...'
+  system_score: 38.8
+  system_bucket: C_discard
+  label: 'apply'
+- title: Python Developer
+  company: Stalwart Themius
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-stalwart-themius-bengaluru-2-to-7-years-190226502010
+  apply_type: external_ats
+  experience_min: 2.0
+  experience_max: 7.0
+  salary_raw: ''
+  posted_at: null
+  description: 'About the job Python Developer Role: Backend - Python Developer Experience: 2+ Years Location: Bangalore About
+    the client: The client are a premium enterprise managed workplace solution provider, offering a combination of local depth
+    and global expertise. Following a mix of a fresh approach, unparalleled creativity and relentless innovation, the company
+    provides flexible coworking premium spaces to businesses of all sizes. It strives to reimagine real estates unique potential
+    to build a world that works better for people, businesses and communities everywhere Roles and Responsibilities Writing
+    reusable, testable, and efficient code Design and implementation of low-latency, high-availability, and performant applications
+    Integration of user-facing elements developed by front-end developers with server-side logic Implementation of security
+    and data protection Integration of data storage solutions Skills Expert in Python, with knowledge of at least one Python
+    web framework, such as Django, and Flask. Familiarity with some ORM (Object Relational Mapper) libraries Able to integrate
+    multiple data sources and databases into one system Understanding the threading limitations of Python, and multi-process
+    architecture Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3 Understanding of accessibility
+    and security compliance'
+  system_score: 38.5
+  system_bucket: C_discard
+  label: 'apply'
+- title: Python Developer
+  company: Webgo Software Labs
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-webgo-software-labs-bengaluru-0-to-2-years-151225501863
+  apply_type: unknown
+  experience_min: 0.0
+  experience_max: 2.0
+  salary_raw: ''
+  posted_at: null
+  description: Bachelor s degree or higher in Computer Science, IT, or related discipline. - Strong kn...
+  system_score: 38.4
+  system_bucket: C_discard
+  label: 'discard'
+- title: Python Developer
+  company: Bix Bytes Solutions
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-bix-bytes-solutions-bengaluru-3-to-5-years-301024505507
+  apply_type: unknown
+  experience_min: 3.0
+  experience_max: 5.0
+  salary_raw: ''
+  posted_at: null
+  description: Our mission is to create maximum value for our customers by thoughtfully planning, desi...
+  system_score: 38.4
+  system_bucket: C_discard
+  label: 'apply'
+- title: Python Developer
+  company: Ocean Software Technologies
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-ocean-software-technologies-bengaluru-0-to-1-years-090726500369
+  apply_type: external_ats
+  experience_min: 0.0
+  experience_max: 1.0
+  salary_raw: ''
+  posted_at: null
+  description: 'Ocean Software Technologies is looking for Python Developer to join our dynamic team and embark on a rewarding
+    career journey Design, develop, and test software applications using Python. Collaborate with cross-functional teams to
+    identify and prioritize project requirements. Develop and maintain large-scale data processing pipelines using Python.
+    Troubleshoot and resolve technical issues efficiently. Participate in code reviews and contribute to improving overall
+    code quality. Stay updated with industry trends and emerging technologies to enhance skills. Disclaimer: This job posting
+    has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are
+    advised to confirm the latest information directly on the company website before applying. Disclaimer : This job posting
+    has been aggregated from external source. Role details, content, and availability are subject to change. Applicants are
+    advised to confirm the latest information directly on the company website before applying.'
+  system_score: 38.2
+  system_bucket: C_discard
+  label: 'discard'
+- title: Python Developer
+  company: Acespire Tech Consulting
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-acespire-tech-consulting-bengaluru-1-to-2-years-170926501224
+  apply_type: external_ats
+  experience_min: 1.0
+  experience_max: 2.0
+  salary_raw: ''
+  posted_at: '2026-09-21T20:21:36+00:00'
+  description: 'Responsibilities Develop and maintain Python-based applications, scripts, and automation tools. Write reusable,
+    testable, and efficient code following best practices. Integrate user-facing elements with server-side logic using frameworks
+    like Django or Flask. Design and optimize databases. Develop RESTful APIs and integrate third-party APIs. Debug and resolve
+    software issues, ensuring application performance and security. Collaborate with front-end developers, and other team
+    members to deliver high-quality solutions. Excellent problem-solving skills and the ability to work in a fast-paced environment.
+    Basic Qualifications Bachelors degree in Computer Science or related field. 1-2 years of software development experience.
+    Proven experience as a Python Developer with expertise in frameworks like Django, Flask Strong understanding of OOP (Object-Oriented
+    Programming) and software development principles. Preferred Qualifications Able to think outside the box to deliver innovative
+    and visually appealing solutions. Pays close attention to small details to ensure a polished and high-quality user experience.
+    Open to feedback and capable of adjusting designs and code to meet evolving project needs. Excellent problem-solving abilities.
+    Experience with big data processing using PySpark or similar technologies. Disclaimer: This job posting has been aggregated
+    from external source. Role details, content, and availability are subject to change. Applicants are advised to confirm
+    the latest information directly on the company website before applying.'
+  system_score: 38.1
+  system_bucket: C_discard
+  label: 'discard'
+- title: AI Engineer
+  company: Infosys
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-ai-engineer-infosys-limited-bengaluru-1-to-6-years-051026930680
+  apply_type: naukri_apply
+  experience_min: 1.0
+  experience_max: 6.0
+  salary_raw: ''
+  posted_at: '2026-10-04T20:20:57+00:00'
+  description: 'Job DescriptionAI Engineer, designing scalable LLM and NLP solutions for high-volume customer interactions.
+    This role will drive architecture, best practices, and innovation across voice AI systems. Roles ResponsibilitiesKey Responsibilities
+    Architect and develop AI-driven IVR and conversational systems using Python Build NLP models for text classification and
+    clustering to support intent detection and call routing Perform data analysis using SQL Design and deploy LLM workflows
+    (prompt engineering, RAG, evaluation) for voice and chat use cases Lead development of agentic AI workflows for multi-step
+    customer interactions Establish LLMOps best practices, including monitoring, evaluation, and lifecycle management Partner
+    with IVR platform, speech engineering, and product teams Mentor offshore and junior AI engineers Technical Requirement2+
+    years of experience in AI / ML Very strong proficiency in Python Proven expertise in NLP, including: o Text classification
+    o Clustering Strong experience in data analysis using SQL Hands-on experience with LLMs: o Prompt engineering o Evaluation
+    frameworks o Retrieval-Augmented Generation (RAG) Good to Have Experience with Agentic AI and multi-agent orchestration
+    Experience with LLMOps / MLOps in production environments Cloud Experience Libraries Tools Python / ML: NumPy, Pandas,
+    Scikit-learn, XGBoost NLP: spaCy, Hugging Face Transformers, NLTK, Sentence-Transformers LLM Frameworks: LangChain, LlamaIndex,
+    OpenAI SDK Agentic AI (Good to Have): LangGraph, AutoGen, CrewAI Data SQL: Oracle, MySQL, SQLAlchemy Vector Databases:
+    FAISS, Pinecone, Weaviate, Qdrant LLMOps / MLOps (Good to Have): MLflow, Weights Biases, BentoML, Airflow Educational
+    RequirementMaster Of Comp. Applications,Master Of Technology,Bachelor Of Comp. Applications,Bachelor of Engineering,Bachelor
+    Of Technology Preferred SkillsTechnology->OpenSystem->Python - OpenSystem->Python,Technology->AI-Agentic AI->Agent Engineering,Technology->Database->SQL
+    tuning,Technology->AI-Traditional AI->NLP-Text Analytics Service LineEngineering Services'
+  system_score: 38.0
+  system_bucket: C_discard
+  label: 'apply'
+- title: Python Developer
+  company: Infosys
+  location: Hybrid - Bengaluru, Hyderabad, Delhi / NCR
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-infosys-hyderabad-bengaluru-delhi-ncr-5-to-8-years-120926013305
+  apply_type: naukri_apply
+  experience_min: 5.0
+  experience_max: 8.0
+  salary_raw: ''
+  posted_at: '2026-10-04T20:21:17+00:00'
+  description: We are looking for an experienced Python Developer with 5-8 years of hands-on experience in designing, developing,
+    and maintaining scalable applications and data processing solutions. The ideal candidate should possess strong expertise
+    in Python programming, database technologies, ETL processes, and application development. The candidate will work closely
+    with business stakeholders, architects, and development teams to deliver high-quality and scalable solutions. Role & Responsibilities
+    Design, develop, test, and maintain Python applications and services. Develop scalable data processing and automation
+    solutions. Build and optimize ETL workflows and data transformation processes. Design and consume REST APIs and web services.
+    Work with SQL databases and optimize complex queries. Troubleshoot and resolve application and performance issues. Collaborate
+    with business users and technical teams to understand requirements. Participate in Agile development activities including
+    sprint planning and reviews. Ensure code quality through testing, code reviews, and documentation. Support deployment
+    and maintenance of applications. Preferred Candidate Profile 5-8 years of experience in Python development. Strong programming
+    expertise in Python. Good experience with SQL and database concepts. Experience in ETL, data processing, or backend development.
+    Knowledge of Pandas, NumPy, and data manipulation techniques. Experience developing REST APIs using Flask or Django. Understanding
+    of software development lifecycle and Agile methodologies. Strong analytical and problem-solving skills. Good communication
+    and stakeholder management abilities. Experience working in enterprise application environments.
+  system_score: 37.7
+  system_bucket: C_discard
+  label: 'discard'
+- title: Python Developer
+  company: Infosys
+  location: Bengaluru, Hyderabad, Pune
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-developer-infosys-hyderabad-pune-bengaluru-5-to-8-years-070926032680
+  apply_type: naukri_apply
+  experience_min: 5.0
+  experience_max: 8.0
+  salary_raw: 10-18 Lacs PA
+  posted_at: '2026-10-04T20:21:17+00:00'
+  description: We are looking for an experienced Python Developer with 5-8 years of hands-on experience in designing, developing,
+    and maintaining scalable applications and data processing solutions. The ideal candidate should possess strong expertise
+    in Python programming, database technologies, ETL processes, and application development. The candidate will work closely
+    with business stakeholders, architects, and development teams to deliver high-quality and scalable solutions. Role & Responsibilities
+    Design, develop, test, and maintain Python applications and services. Develop scalable data processing and automation
+    solutions. Build and optimize ETL workflows and data transformation processes. Design and consume REST APIs and web services.
+    Work with SQL databases and optimize complex queries. Troubleshoot and resolve application and performance issues. Collaborate
+    with business users and technical teams to understand requirements. Participate in Agile development activities including
+    sprint planning and reviews. Ensure code quality through testing, code reviews, and documentation. Support deployment
+    and maintenance of applications. Preferred Candidate Profile 5-8 years of experience in Python development. Strong programming
+    expertise in Python. Good experience with SQL and database concepts. Experience in ETL, data processing, or backend development.
+    Knowledge of Pandas, NumPy, and data manipulation techniques. Experience developing REST APIs using Flask or Django. Understanding
+    of software development lifecycle and Agile methodologies. Strong analytical and problem-solving skills. Good communication
+    and stakeholder management abilities. Experience working in enterprise application environments.
+  system_score: 36.8
+  system_bucket: C_discard
+  label: 'discard'
+- title: Python Software Developer
+  company: PwC India
+  location: Bengaluru, Kolkata, Delhi / NCR
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-software-developer-pwc-india-kolkata-bengaluru-delhi-ncr-5-to-10-years-051026024196
+  apply_type: naukri_apply
+  experience_min: 5.0
+  experience_max: 10.0
+  salary_raw: ''
+  posted_at: '2026-10-04T20:21:15+00:00'
+  description: 'Role & responsibilities: Develop and maintain Python-based microservices and APIs. Build integrations with
+    enterprise applications and external systems. Develop AI-enabled workflow automation and document processing capabilities.
+    Optimise database performance and application scalability. Support deployment, troubleshooting, and production issue resolution.
+    Mandatory skill sets: Candidates must have strong backend engineering experience, API development expertise, and exposure
+    to AI/automation platforms. Python 3.x 0 MUST HAVE AI/LLM integration experience – MUST HAVE Microsoft SQL Server – MUST
+    HAVE Azure Services- – MUST HAVE FastAPI – MUST HAVE REST API Development Async Programming (async/await) Pydantic, SQLAlchemy
+    Microsoft Graph API Docker, Git, CI/CD Linux (RHEL preferred) Preferred Skills: AI/LLM Integrations (OpenAI, Azure AI,
+    Gemini) OCR / Document Digitisation RabbitMQ / Messaging Platforms WebSocket Implementation Insurance / Healthcare Domain
+    Experience Years of experience required: 5-8 years (with exposure GenAI/LLM ecosystems) Education qualification: B.E.
+    / B.Tech / MCA/ M.E/ M.TECH/ MBA/ PGDM. All qualifications should be in regular full-time mode with no extension of course
+    duration due to backlogs.'
+  system_score: 36.7
+  system_bucket: C_discard
+  label: 'discard'
+- title: Python Gen AI Developer
+  company: Qualitest
+  location: Hybrid - Bengaluru, Hyderabad, Pune
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-gen-ai-developer-qualitest-hyderabad-pune-bengaluru-5-to-9-years-051026020312
+  apply_type: naukri_apply
+  experience_min: 5.0
+  experience_max: 9.0
+  salary_raw: ''
+  posted_at: '2026-10-04T20:21:22+00:00'
+  description: 'Required Skills and Qualifications: 1. 5+ years of experience in software development with strong Python expertise
+    .2. Minimum 1 year of hands-on experience building applications using LLMs (e.g., OpenAI, Anthropic). 3. Proficiency in
+    RAG techniques and vector database usage (Weaviate, Pinecone, etc.). 4. Strong background in Generative AI libraries and
+    frameworks (LangChain, LangGraph). 5. Proficiency in dataset preparation, transformation, and processing for AI/ML workflows.
+    6. Knowledge of REST API design and microservices architecture. 7. Exposure to cloud platforms (AWS, Azure, or GCP) and
+    their AI/data services. 8. Excellent problem-solving and analytical skills. 9. Strong communication skills with the ability
+    to work independently or in a team. Preferred candidate profile Python Development- 6 to 12 Years Rest API - 6 Years Minimum
+    Fast API/DJango/Flask- 6 Years Minimum SQL Database - 6 Years Minimum Gen AI/LLM Models - 2 Years Minimum Rag Implementation
+    - 2 Years Minimum Prompt Engineering - 2 Years Minimum'
+  system_score: 36.7
+  system_bucket: C_discard
+  label: 'discard'
+- title: Python Software Developer-S
+  company: Infosys
+  location: Hybrid - Bengaluru, Hyderabad, Chennai
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-software-developer-s-infosys-hyderabad-chennai-bengaluru-3-to-5-years-100826024141
+  apply_type: naukri_apply
+  experience_min: 3.0
+  experience_max: 5.0
+  salary_raw: ''
+  posted_at: null
+  description: Key Responsibilities Design, develop, test, and deploy Python-based applications. Build and maintain RESTful
+    APIs and backend services. Develop scalable and high-performance solutions using Python frameworks. Collaborate with cross-functional
+    teams to gather requirements and deliver technical solutions. Write clean, efficient, and reusable code following best
+    practices. Troubleshoot, debug, and resolve application issues. Optimize application performance and database queries.
+    Participate in code reviews and contribute to continuous improvement initiatives. Maintain technical documentation and
+    support production deployments. Required Skills 3-5 years of hands-on experience in Python development. Strong proficiency
+    in Python, Django, Flask, or FastAPI. Experience in developing REST APIs and microservices. Strong knowledge of SQL databases
+    such as PostgreSQL, MySQL, or SQL Server. Experience with ORM frameworks and database design. Knowledge of version control
+    tools such as Git. Understanding of SDLC and Agile methodologies. Strong problem-solving and analytical skills. Preferred
+    Skills Experience with AWS, Azure, or GCP. Knowledge of Docker, Kubernetes, and CI/CD pipelines. Exposure to NoSQL databases
+    such as MongoDB. Experience with messaging tools like Kafka or RabbitMQ. Familiarity with AI/ML or data processing frameworks
+    is an added advantage.
+  system_score: 36.4
+  system_bucket: C_discard
+  label: 'apply'
+- title: Senior AI Engineer
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4475532514/
+  apply_type: easy_apply
+  experience_min: 8.0
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: '🚀 We’re Hiring – Senior Generative AI Developer We are looking for an experienced Senior Generative AI Developer
+    to join our team and build scalable, enterprise-grade AI solutions using Generative AI, LAG/RAG architectures, Python,
+    FastAPI, and Cloud technologies. 🎯 Experience: 8+ Years 🔑 Key Skills Required ✅ Python & FastAPI ✅ Generative AI / LLMs
+    ✅ RAG Architecture & Applications ✅ System & Solution Architecture ✅ Vector Databases & Embeddings ✅ Retrieval Pipelines
+    ✅ AWS / Azure / GCP ✅ REST API Development ✅ Data Ingestion & Preprocessing ✅ Scalable & Distributed Systems ⭐ Preferred
+    Skills • LLM Fine-Tuning • Prompt Engineering & Model Evaluation • Docker & Kubernetes • CI/CD & DevOps • Performance
+    Optimization 🎯 What You’ll Do • Architect and develop enterprise-scale Generative AI and RAG solutions. • Design scalable
+    and secure AI-driven system architectures. • Build high-performance APIs using FastAPI. • Develop data ingestion, preprocessing,
+    embedding, and retrieval pipelines. • Deploy and optimize AI solutions on AWS, Azure, or GCP. • Collaborate with engineering
+    and business teams to integrate AI capabilities into existing platforms. … more'
+  system_score: 36.1
+  system_bucket: C_discard
+  label: 'discard'
+- title: Python Software Developer
+  company: Cloudxtreme
+  location: Bengaluru, Hyderabad, Pune
+  source: naukri
+  url: https://www.naukri.com/job-listings-python-software-developer-cloudxtreme-hyderabad-pune-bengaluru-2-to-5-years-040926922142
+  apply_type: unknown
+  experience_min: 2.0
+  experience_max: 5.0
+  salary_raw: ''
+  posted_at: null
+  description: 'Educational Qualification : 15 years full time education Required active participation ...'
+  system_score: 35.9
+  system_bucket: C_discard
+  label: 'apply'
+- title: Python + AI Engineer
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4475543134/
+  apply_type: easy_apply
+  experience_min: null
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 'Must-Have Skills: Strong hands-on experience in Python LangChain, LangGraph, and Langflow Hands-on experience
+    with LLM deployment Strong experience in RAG and Agentic AI Experience with AI Agents, MCP Servers, tool calling, and
+    memory sharing Experience in deploying and integrating LLM-based applications'
+  system_score: 34.4
+  system_bucket: C_discard
+  label: 'apply'
+- title: Data Scientist - Hybrid - Immediate Hiring - BI-ACDAA
+  company: Bounteous
+  location: Hybrid - Bengaluru, Gurugram
+  source: naukri
+  url: https://www.naukri.com/job-listings-data-scientist-hybrid-immediate-hiring-bi-acdaa-bounteous-gurugram-bengaluru-5-to-10-years-051026020922
+  apply_type: naukri_apply
+  experience_min: 5.0
+  experience_max: 10.0
+  salary_raw: ''
+  posted_at: '2026-10-04T20:21:03+00:00'
+  description: 'Hello Everyone, Greetings from Bounteous!! We have an excellent Opening for the below Skills: Job Title: Data
+    Scientist Experience: 5+ Years Primary Skills: LLM (Fine-tuning/RAG) + Computer Vision (CNN/Transformers/Object Detection)
+    + Python with PyTorch/TensorFlow + Production ML on Cloud (AWS/GCP/Azure) Job Location: Bangalore Kindly share the updated
+    Profile to shanmuga.priya@bounteous.com along with the below details, Current CTC: Expected CTC: Available Time to Join:
+    Preferred Location: Job Description Required Qualifications 5+ years of hands-on experience in data science, machine learning,
+    or AI engineering, with at least 2 to 3 years in IC capacity. Deep expertise in LLMs fine-tuning (LoRA, QLoRA, PEFT),
+    prompt engineering, RAG pipelines, embedding models, and LLM evaluation frameworks. Strong hands-on experience with Vision-Language
+    Models (VLMs) such as LLaVA, GPT-4V, Gemini, or similar multimodal architectures. Proven track record in computer vision
+    CNNs, transformers (ViT, DETR, SAM), object detection (YOLO, Faster R-CNN), segmentation, OCR, and video understanding.
+    Solid command of classical ML techniques ensemble methods, gradient boosting (XGBoost, LightGBM), Bayesian methods, and
+    time-series modeling. Strong proficiency in Python and ML/DL frameworks (PyTorch, TensorFlow, Hugging Face Transformers,
+    LangChain, or equivalent). Production ML experience building, deploying, and monitoring models in real-world systems with
+    SLA requirements. Solid understanding of ML system architecture — feature engineering pipelines, model registries, CI/CD
+    for ML, containerized deployments (Docker, Kubernetes). Experience with cloud platforms (AWS, GCP, or Azure) and GPU-accelerated
+    training infrastructure. Proven ability to lead cross-functional technical teams, drive architecture decisions, and deliver
+    projects on time. Excellent communication skills with the ability to translate complex AI concepts for diverse audiences.
+    Master’s or Ph.D. in Computer Science, Machine Learning, Statistics, or a related quantitative field preferred. Technical
+    Depth Expected LLMs & NLP: Tokenization, attention mechanisms, transformer architectures, RLHF/DPO, vector databases (Pinecone,
+    Weaviate, Milvus), chunking strategies, and retrieval-augmented generation. VLMs & Multimodal AI: Image-text alignment,
+    contrastive learning (CLIP), multimodal embeddings, visual question answering, and document understanding models. Computer
+    Vision: Image classification, object detection, instance/semantic segmentation, pose estimation, depth estimation, generative
+    models (diffusion, GANs), and edge deployment (ONNX, TensorRT). Classical ML: Feature engineering, hyperparameter tuning,
+    model selection, cross-validation, drift detection, and explainability (SHAP, LIME). Production Systems: Model optimization
+    (quantization, pruning, distillation), A/B testing frameworks, shadow deployments, autoscaling inference endpoints, and
+    latency profiling.'
+  system_score: 33.6
+  system_bucket: C_discard
+  label: 'discard'
+- title: Senior Software Developer Python
+  company: Isarva Infotech
+  location: Bengaluru
+  source: naukri
+  url: https://www.naukri.com/job-listings-senior-software-developer-python-isarva-infotech-private-limited-bengaluru-3-to-6-years-240426501817
+  apply_type: unknown
+  experience_min: 3.0
+  experience_max: 6.0
+  salary_raw: ''
+  posted_at: null
+  description: Experience with agile development methodologies.
+  system_score: 33.5
+  system_bucket: C_discard
+  label: 'discard'
+- title: ML Engineer, Generative AI & Computer Vision
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4474612533/
+  apply_type: easy_apply
+  experience_min: null
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 'About Skandor Technologies Skandor Technologies builds production-ready AI products that help enterprises
+    modernize workflows, improve decision-making, and create operational leverage. We focus on generative AI, automation,
+    data platforms, and supply-chain intelligence to support end-to-end digital transformation. We work with clients from
+    product strategy and validation through to delivery of scalable enterprise platforms. Our teams collaborate closely with
+    industry partners, solving complex technical and business problems using advanced AI and software engineering, in an environment
+    that emphasizes innovation, reliability, and real-world impact for enterprise customers. The Role You''ll work on a live,
+    production generative-AI platform that turns a plain-language brief or reference image into a manufacturable 3D model
+    and a priced bill of materials. The work spans multimodal LLMs, image generation, 3D geometry, and computer vision, and
+    your results feed directly into customer quotes. That makes accuracy, evaluation, and reliability part of the job. What
+    You''ll Do Build and improve multimodal AI pipelines: structured extraction, tool/function calling, retrieval over curated
+    knowledge bases, and image generation and editing Improve output fidelity using conditioning techniques (e.g., ControlNet-style
+    or geometry-guided generation) and prompt/parameter strategies Develop computer-vision and 3D components: mesh processing,
+    rendering, object counting, and scale/weight estimation Design evaluation and QA workflows to measure accuracy and catch
+    regressions Add confidence checks and human-in-the-loop review where model outputs affect pricing Ship ML services with
+    FastAPI on AWS, and manage model versions, fallbacks, latency, and API cost Use AI coding tools to move faster, and review
+    what they produce critically Required Skills Bachelor''s degree in Computer Science, Engineering, or a related field Strong
+    Python, including async programming and REST API development (FastAPI) Hands-on experience with LLM/multimodal APIs (Gemini,
+    OpenAI, Claude, or similar): prompt engineering, structured JSON outputs, tool/function calling Understanding of RAG and
+    knowledge-base grounding Computer vision fundamentals (OpenCV, image processing) and familiarity with generative image
+    models (diffusion, ControlNet-style conditioning) Experience evaluating ML/LLM outputs (metrics, test sets, error analysis)
+    Working knowledge of AWS (S3, ECS/Fargate, RDS) or an equivalent cloud SQL/PostgreSQL, Git, Docker, and testing with pytest
+    Comfort using AI-assisted development tools in daily work Clear written and verbal communication, and the ability to explain
+    model behavior to non-technical stakeholders Adaptability: you pick up new models, tools, and APIs quickly Good to Have
+    3D/mesh processing (trimesh, Open3D, pyrender) or geometry/graphics background PyTorch or TensorFlow, and model fine-tuning
+    experience Observability and cost monitoring for AI workloads, and CI/CD or Infrastructure-as-Code (CDK/Terraform) Data-labeling
+    or QA tooling experience Who You Are A curious engineer who likes making AI reliable in production, not just impressive
+    in a demo, and who can work directly with clients and teammates. … more'
+  system_score: 33.5
+  system_bucket: C_discard
+  label: 'apply'
+- title: More
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4474243749/
+  apply_type: unknown
+  experience_min: 5.0
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 'Job Title: AI Engineer (RAG & Multi-Agent Systems) We are looking for an experienced AI/LLM Engineer to design,
+    build, and maintain intelligent applications powered by Large Language Models (LLMs), embeddings, similarity search, vector
+    databases, and multi-agent architectures. The ideal candidate will build real-time AI systems such as chatbots, semantic
+    search engines, recommendation systems, document intelligence platforms, MCP servers, and autonomous multi-agent workflows
+    capable of tool usage and inter-agent communication. You will own the end-to-end lifecycle of AI pipelines including data
+    ingestion, embedding generation, vector storage, retrieval, LLM response orchestration, tool invocation, agent communication,
+    and automated decision workflows. Experience: 5+ Years overall, with over 1 year experience in building Agentic AI Location:
+    Bangalore Employment Type: Full-Time/Contractual Key Responsibilities: Design and implement embedding pipelines for text,
+    documents, images, and structured data. Build and optimize semantic search and similarity search systems using vector
+    databases. Integrate and manage vector databases such as: Pinecone, We aviate, Milvus, FAISS, Chroma, OpenSearch Vector
+    Engine, etc. Develop LLM-powered applications for: Chatbots Q&A systems Recommendation engines AI agents and automation
+    workflows Implement RAG (Retrieval Augmented Generation) pipelines with hybrid retrieval and reranking. Design and develop
+    multi-agent architectures (planner-executor, supervisor-worker, tool-using agents). Build and deploy MCP (Model Context
+    Protocol) servers to expose tools, memory, and external systems to LLM agents. Develop structured agentic workflows using
+    frameworks like LangGraph, Strands, or similar orchestration engines. Implement multi-agent communication using A2A (Agent-to-Agent)
+    protocols for collaborative reasoning and task execution. Design tool-calling pipelines and function-calling integrations.
+    Fine-tune prompt strategies, memory handling, and system prompts for optimal LLM performance. Integrate LLM providers
+    such as: OpenAI, Azure OpenAI, Anthropic, Google Gemini, Meta LLaMA, Mistral, etc. Build APIs and microservices for AI
+    systems using: Python / Java / Node.js / Spring Boot / FastAPI Implement similarity scoring, ranking, filtering, and metadata-based
+    retrieval. Monitor, optimize, and scale vector search performance. Optimize LLM cost, latency, caching, and response validation
+    strategies. Implement AI safety mechanisms, hallucination reduction, guardrails, and evaluation pipelines. Work closely
+    with product, frontend, and data teams. Deploy AI workloads on AWS, Azure, GCP, or OCI. Maintain CI/CD pipelines for AI
+    services. Required Skills & Qualification: Mandatory Core AI, LLM & Agentic Skills Mandatory Core AI, LLM & Agentic Skills
+    Strong understanding of: Embeddings Vector similarity search Cosine similarity, dot product, ANN indexing RAG architectures
+    Hands-on experience with: Lang Chain / Llama Index / Semantic Kernel / Spring AI Experience building multi-agent systems
+    and agent orchestration pipelines Experience building MCP servers for tool and context exposure Experience with Lang Graph
+    / Strands or similar agent workflow orchestration tools Experience implementing A2A (Agent-to-Agent) communication patterns
+    Proficient in prompt engineering, memory management, and LLM orchestration Experience with at least one Vector Database
+    Programming & Backend: Strong proficiency in Python / Java / JavaScript / TypeScript API development using Fast API, Flask,
+    Spring Boot, or Node.js Strong understanding of REST APIs, async processing, event-driven architectures Experience building
+    microservices for AI agents. Data & Storage: Experience with: PostgreSQL, MySQL, MongoDB Object storage (S3, OCI, Azure
+    Blob) Data preprocessing, chunking strategies, tokenization optimization Knowledge of metadata filtering and hybrid search
+    Cloud & DevOps (Good to have) : Docker & Kubernetes CI/CD pipelines (Jenkins, GitHub Actions, GitLab, Bitbucket) Monitoring
+    with Prometheus, Grafana, Open Telemetry Experience deploying scalable AI inference pipelines Good to Have (Preferred
+    Skills) Deep experience with Agentic AI frameworks Knowledge of Tool Calling / Function Calling Experience with workflow
+    engines and orchestration graphs Experience with Speech-to-Text, Vision models Fine-tuning, LoRA, PEFT experience Knowledge
+    of AI security, governance & data privacy Experience building autonomous AI systems with memory + tools Experience designing
+    distributed agent architectures Use Cases You Will Work On: Semantic document search Knowledge-base Q&A systems Multi-agent
+    workflow automation Intelligent AI copilots Automated ticket triaging AI assistants for developers and operations Collaborative
+    agent systems using A2A protocols MCP-based tool-integrated AI systems … more'
+  system_score: 27.7
+  system_bucket: C_discard
+  label: 'discard'
+- title: Biomedical AI Engineer – Physiological Signal Processing
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4473679039/
+  apply_type: easy_apply
+  experience_min: 3.0
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 'About Meeami Technologies: Meeami Technologies builds on-device AI for speech, audio, and multimodal intelligence,
+    powering natural human-machine interaction on low-power hardware. We are now applying that edge-AI expertise to healthcare:
+    turning physiological signals from wearables and medical devices into continuous health monitoring, early detection, and
+    decision support. At Meeami, you''ll work where biomedical science, signal processing, and machine learning meet, building
+    algorithms that run reliably in the real world. Role Overview: We''re looking for a Biomedical AI Engineer to turn raw
+    sensor data (ECG, PPG, EMG, EEG, IMU) into robust algorithms and ML models. You''ll own the full path from signal to deployed
+    model: acquisition, preprocessing, feature extraction, model development, validation, and optimization for embedded and
+    cloud targets. This role suits biomedical engineers with an MS or PhD who have built algorithms on physiological sensor
+    data and want to see that work ship in products. Key Responsibilities: Design and implement signal processing pipelines
+    for physiological signals. This includes filtering, artifact and motion-noise removal, peak and beat detection, segmentation,
+    and signal quality assessment. Develop algorithms and ML/DL models for health applications such as: arrhythmia detection
+    heart rate and HRV estimation SpO2 and respiration estimation muscle activity analysis sleep and stress monitoring Combine
+    classical DSP with deep learning where each fits best, and benchmark against established reference methods and devices.
+    Define data strategies for: collection protocols annotation guidelines labelling with clinical experts dataset curation
+    and versioning Build evaluation frameworks with clinically meaningful metrics, such as sensitivity, specificity, PPV,
+    and error against reference devices. Test across subjects, devices, and real-world conditions. Work with embedded engineers
+    to optimize models for low-power hardware through quantization, pruning, and fixed-point implementation, while meeting
+    latency and memory budgets. Build scalable cloud pipelines for ingesting and processing wearable and clinical data. Collaborate
+    with product teams, clinical advisors, and cross-functional teams across Meeami to translate requirements into working
+    algorithms. Document algorithms and validation results in a way that supports patents, publications, and future regulatory
+    submissions. Stay current with research in biosignal processing, wearable health, and edge AI. Qualifications: MS or PhD
+    in Biomedical Engineering, Electrical Engineering (signal processing), or a related field. Hands-on experience developing
+    algorithms with physiological sensors such as ECG, PPG, EMG, or EEG, from industry or research: MS: 3+ years PhD: 1+ year
+    Strong DSP foundation, including filtering, spectral and time-frequency analysis, and adaptive filtering. Experience applying
+    ML/DL to time-series data (CNNs, RNNs/LSTMs, Transformers) using PyTorch or TensorFlow. Proficiency in Python and the
+    scientific stack (NumPy, SciPy, pandas, scikit-learn). MATLAB is a plus. Experience with real biomedical datasets, clinical
+    or wearable, including noisy and motion-corrupted data. Familiarity with public datasets such as PhysioNet or MIT-BIH.
+    Solid understanding of the physiology behind the signals you work with. Preferred Experience: Algorithms deployed on wearables
+    or embedded platforms such as ARM Cortex-M, DSPs, or TinyML frameworks (TFLite Micro, ONNX Runtime). Working knowledge
+    of C/C++. Prior work on healthcare products or at a medtech startup. Familiarity with medical device standards and regulation,
+    such as IEC 62304, ISO 13485, FDA SaMD/510(k), CE MDR, or CDSCO. Exposure to multimodal data, such as biosignals combined
+    with accelerometer data, heart and lung sounds, or voice biomarkers. Publications or patents in biomedical signal processing
+    or health AI. Familiarity with sensor hardware and analog front-ends. Why Join Meeami: You''ll help build Meeami''s biomedical
+    AI capability from the ground up, working closely with leadership on the technical roadmap. Your algorithms will run on
+    real devices, not just in papers. Meeami''s existing strength in edge AI and audio opens unusual opportunities in multimodal
+    health sensing. This is a rare chance to shape both the science and the systems behind next-generation health monitoring.
+    … more'
+  system_score: 27.5
+  system_bucket: C_discard
+  label: 'discard'
+- title: Applied AI Research Engineer
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4474229491/
+  apply_type: easy_apply
+  experience_min: 3.0
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 'This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner
+    is looking for a Applied AI Research Engineer based in India. This role focuses on turning cutting-edge AI research concepts
+    into practical, reusable systems for real-world applications. You will build reinforcement learning environments, agentic
+    systems, LLM pipelines, and evaluation frameworks that support advanced AI initiatives and customer use cases. The position
+    combines hands-on engineering with experimentation, model evaluation, and applied research. You will investigate how different
+    data, models, and techniques influence AI system behavior and performance. Working with research and cross-functional
+    teams, you will transform technical ideas into reliable assets that can be reproduced and reused. The role offers significant
+    autonomy in a remote environment and is ideal for an engineer who enjoys moving quickly from research questions to working
+    solutions. Accountabilities Build reinforcement learning and agent environments for real-world AI use cases, including
+    defining task specifications, scoring mechanisms, evaluation criteria, and relevant testing workflows. Develop benchmarks
+    and evaluation harnesses to assess model and data quality across dimensions such as accuracy, robustness, safety, latency,
+    and cost. Design and implement LLM pipelines and agentic systems that support research initiatives, model evaluation,
+    experimentation, and customer trials. Conduct fine-tuning, adapter, and other model experiments to understand how different
+    datasets, techniques, and configurations influence model behavior and system performance. Deploy local and self-hosted
+    models for evaluation, inference, experimentation, and automation workflows. Document experiments, configurations, datasets,
+    results, methodologies, and known limitations clearly so that other engineers can reproduce, validate, and extend the
+    work. Collaborate closely with AI research teams and cross-functional stakeholders to translate technical concepts into
+    practical, reusable solutions and assets. Independently investigate technical problems, rapidly prototype potential approaches,
+    and turn research questions or ideas into functional, production-oriented implementations. Contribute to the development
+    of reliable, maintainable AI systems while applying strong engineering practices throughout experimentation and deployment.
+    Requirements Bachelor’s, Master’s, or PhD in Computer Science, Engineering, Machine Learning, or a related technical discipline.
+    At least 3 years of professional engineering or relevant industry experience in AI/ML, software engineering, or a closely
+    related field. Strong software engineering capabilities with demonstrated experience building reliable, maintainable,
+    and reusable AI or software systems. Hands-on experience developing agentic systems, reinforcement learning environments,
+    LLM pipelines, or comparable AI applications. Proven experience creating evaluation harnesses, benchmarks, model-testing
+    pipelines, or other systematic approaches to measuring AI system performance. Strong understanding of experimentation,
+    reproducibility, evaluation methodologies, and technical documentation. Ability to work independently on complex technical
+    problems, exercise sound engineering judgment, and move efficiently from an idea or research question to a working solution.
+    Strong analytical and problem-solving skills, with curiosity and enthusiasm for experimenting with emerging AI techniques
+    and technologies. Experience with synthetic data generation systems or dataset development is a plus. Published research
+    papers, benchmarks, or other technical research is advantageous. Experience with SWE-bench or comparable software engineering
+    evaluation environments is desirable. Experience building or deploying local inference systems, open-weight models, or
+    self-hosted model environments is a plus. Benefits Permanent, regular full-time position with a remote working arrangement
+    in India. High degree of autonomy and ownership over applied AI research and engineering projects. Opportunity to work
+    on advanced AI challenges spanning reinforcement learning, agentic systems, LLMs, model evaluation, and AI experimentation.
+    Exposure to practical research applications supporting both advanced AI initiatives and real-world customer use cases.
+    Opportunity to collaborate closely with AI research and cross-functional technical teams. Environment that values curiosity,
+    accountability, innovation, collaboration, and continuous learning. Opportunity to develop reusable AI assets, evaluation
+    frameworks, and systems that can influence future AI applications. Flexibility to work effectively in a remote environment
+    while accessing tools, resources, and development opportunities to strengthen technical capabilities. How Jobgether Works
+    We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against
+    the role''s core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly
+    with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+    We appreciate your interest and wish you the best! Why Apply Through Jobgether? Data Privacy Notice: By submitting your
+    application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant
+    information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under
+    applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection)
+    at any time. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications,
+    analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application
+    materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final
+    hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please
+    contact us. … more'
+  system_score: 26.8
+  system_bucket: C_discard
+  label: 'discard'
+- title: AI Researcher (Up to 70LPA)
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4475542736/
+  apply_type: easy_apply
+  experience_min: null
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: '𝗔𝗯𝗼𝘂𝘁 𝘁𝗵𝗲 𝗷𝗼𝗯 This role is for one of our client companies — a VC-backed Artificial Intelligence (AI) startup
+    that has raised $500K USD in funding. 𝗦𝗮𝗹𝗮𝗿𝘆: Up to 70LPA Apply once and, if selected, get access to up to 20 remote and
+    onsite interview opportunities. 🚀 𝗪𝗵𝗮𝘁 𝗪𝗲''𝗿𝗲 𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 CodeRound AI matches the top 5% tech talent with the fastest-growing,
+    VC-funded AI startups across Silicon Valley and India. Top-tier product startups across the US, UK, EU, UAE, and India
+    have hired top engineers through CodeRound. 🚀 𝗔𝗜 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵𝗲𝗿 (2+ 𝗬𝗲𝗮𝗿𝘀 𝗼𝗳 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲) We are seeking an AI Researcher &
+    Engineer to push the boundaries of model performance through hands-on experimentation, fine-tuning, and deployment. Join
+    us to bridge the gap between cutting-edge research and production-ready AI products. 🧩 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂''𝗹𝗹 𝗗𝗼 Research and understand
+    machine learning techniques and papers Experiment with new research techniques and real-world implementations Train, deploy,
+    and serve models at scale Write research papers based on experiments and findings Develop detailed benchmarks and comparative
+    performance analyses Perform quantization and fine-tuning of LLMs and other models Optimize models and GPU infrastructure
+    for cost-to-scale efficiency Write Python code and Jupyter Notebooks ✅ 𝗬𝗼𝘂''𝗿𝗲 𝗮 𝗚𝗿𝗲𝗮𝘁 𝗙𝗶𝘁 𝗜𝗳 𝗬𝗼𝘂 Strong AI research background
+    with research/paper publications Experience researching and implementing machine learning techniques and papers Strong
+    experience with deep learning frameworks such as PyTorch and TensorRT-LLM Experience training, deploying, and serving
+    models at scale Experience with quantization and fine-tuning of LLMs and other models Strong benchmarking and performance
+    analysis experience ✨ 𝗪𝗵𝘆 𝗝𝗼𝗶𝗻 𝗨𝘀? Own the research roadmap from day one at our funded startup. Deploy cutting-edge AI
+    models directly into production for real-world impact. Fast-track your career alongside top-tier talent in our Bengaluru
+    office. Work directly with founders who value bold ideas and rapid execution. … more'
+  system_score: 26.2
+  system_bucket: C_discard
+  label: 'apply'
+- title: Perception Engineer - Apprentice
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4475553377/
+  apply_type: easy_apply
+  experience_min: null
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 'About Origin Origin (previously 10xConstruction) is building general-purpose autonomous robots for US construction
+    to tackle rising costs, safety risks, and labor shortages. Our modular, multi-trade platform combines purpose-built hardware
+    with real-time site intelligence to navigate complex environments and execute tasks with precision. Trained in high-fidelity
+    simulation and already deployed on live sites, our robots deliver 5x faster execution, 250%+ margin expansion, and significant
+    cost savings. Join India''s most talent-dense robotics team consisting of individuals from IITs, Stanford, UCLA, etc.
+    About The Role As a Perception Engineer at Origin (Formerly 10xconstruction), you will help our autonomous drywall-finishing
+    robots "see" the job-site. You''ll design and deploy perception pipelines—camera + LiDAR fusion, deep-learning vision
+    models, and point-cloud geometry—to give the robot the awareness it needs. Key Responsibilities Develop and deploy 3D
+    perception components for geometric scene understanding using depth sensors, LiDAR, and RGB cameras. Process and interpret
+    spatial data (point clouds, depth maps, image streams) for environment modeling and task planning. Train and integrate
+    deep-learning models for 3D semantic understanding and quality evaluation. Design robust sensor fusion strategies that
+    combine visual, inertial, and spatial data for scene reconstruction and robot localization. Benchmark and optimize perception
+    models for deployment on edge compute platforms (e.g., NVIDIA Jetson) using tools like TensorRT or ONNX. Collect and curate
+    high-quality datasets (real and synthetic); automate training pipelines and experiment tracking. Perform and validate
+    sensor calibration (camera, LiDAR, IMU) and develop checks to maintain calibration quality over time Collaborate across
+    robotics teams (manipulation, navigation, cloud) to deliver production-ready perception stacks for autonomous operation
+    in dynamic construction environments Requirements Qualifications & Skills Solid grasp of linear algebra, probability and
+    geometry; coursework or projects in CV or robotics perception Proficient in Python 3.x and C++17/20; comfortable with
+    git and CI workflows Experience with ROS 2 (rclcpp / rclpy) and custom message / launch setups Familiarity with deep-learning
+    vision (PyTorch or TensorFlow)—classification, detection or segmentation Hands-on work with point-cloud processing ; know
+    when to apply voxel grids, KD-trees, RANSAC or ICP Exposure to sensor calibration algorithms, Good to have: Experience
+    with ROS 2 Familiarity with PCL, Open3D Exposure to real-time optimization libraries (Ceres, GTSAM) … more'
+  system_score: 25.9
+  system_bucket: C_discard
+  label: 'discard'
+- title: Data Scientist-AI/ML
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4474271796/
+  apply_type: easy_apply
+  experience_min: 5.0
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 'Job Role: Data Scientist-AI/ML Experience: 5+ Years Location: Chennai, Bangalore Key Skills: Data Science,
+    Machine Learning, Generative AI Job Summary Senior AI/ML Engineer/Data scientist with strong expertise in Python programming,
+    Machine Learning, and Data Engineering. The ideal candidate will design, develop, and deploy scalable AI/ML solutions
+    leveraging the Palantir platform, while ensuring robust data pipelines and infrastructure to support advanced analytics
+    and predictive modeling. Key Skills & Responsibilities Designing, build, and optimize machine learning models for classification,
+    regression & NLP Experience in model training, validation, and deployment pipelines using frameworks like TensorFlow,
+    PyTorch, or Scikit-learn. Excellent proficiency with Python (Good to have experience with PySpark as well) Prompt Engineering
+    Have build Generative AI applications using tools and frameworks like LangChain or another libraries Monitor model performance
+    and retrain models as needed. Experience building Agentic AI applications will be a plus Understanding of MlOps best practices
+    Collaboration Work closely with data scientists, software engineers, and business stakeholders to translate requirements
+    into technical solutions. Mentor junior engineers and contribute to technical design reviews. Innovation Stay updated
+    with the latest advancements in AI/ML and data engineering technologies. Propose and implement innovative solutions to
+    improve business processes. Good To Have Learning/work experience with Palantir platform and awareness with its AIP features
+    Develop and maintain ETL pipelines for large-scale data ingestion and transformation. Work with structured and unstructured
+    data from multiple sources (APIs, databases, streaming platforms). Optimize data storage and retrieval using SQL/NoSQL
+    databases and cloud data warehouses. Skills: generative ai,data science,data scientist,machine learning … more'
+  system_score: 25.5
+  system_bucket: C_discard
+  label: 'discard'
+- title: Data Scientist | Python | GenAI | LLM | RAG
+  company: Infosys
+  location: Hybrid - Bengaluru, Hyderabad, Chennai
+  source: naukri
+  url: https://www.naukri.com/job-listings-data-scientist-python-genai-llm-rag-infosys-hyderabad-chennai-bengaluru-8-to-13-years-051026042782
+  apply_type: naukri_apply
+  experience_min: 8.0
+  experience_max: 13.0
+  salary_raw: ''
+  posted_at: null
+  description: 'Responsibilities A day in the life of an Infoscion • As part of the Infosys delivery team, your primary role
+    would be to ensure effective Design, Development, Validation and Support activities, to assure that our clients are satisfied
+    with the high levels of service in the technology domain. • You will gather the requirements and specifications to understand
+    the client requirements in a detailed manner and translate the same into system requirements. • You will play a key role
+    in the overall estimation of work requirements to provide the right information on project estimations to Technology Leads
+    and Project Managers. • You would be a key contributor to building efficient programs/ systems and if you think you fit
+    right in to help our clients navigate their next in their digital transformation journey, this is the place for you! If
+    you think you fit right in to help our clients navigate their next in their digital transformation journey, this is the
+    place for you! Additional Responsibilities: ••• •K•n•o•w•l•e•d•g•e• •o•f• •d•e•s•i•g•n• •p•r•i•n•c•i•p•l•e•s• •a•n•d•
+    •f•u•n•d•a•m•e•n•t•a•l•s• •o•f• •a•r•c•h•i•t•e•c•t•u•r•e• ••• •U•n•d•e•r•s•t•a•n•d•i•n•g• •o•f• •p•e•r•f•o•r•m•a•n•c•e•
+    •e•n•g•i•n•e•e•r•i•n•g• ••• •K•n•o•w•l•e•d•g•e• •o•f• •q•u•a•l•i•t•y• •p•r•o•c•e•s•s•e•s• •a•n•d• •e•s•t•i•m•a•t•i•o•n•
+    •t•e•c•h•n•i•q•u•e•s• ••• •B•a•s•i•c• •u•n•d•e•r•s•t•a•n•d•i•n•g• •o•f• •p•r•o•j•e•c•t• •d•o•m•a•i•n• ••• •A•b•i•l•i•t•y•
+    •t•o• •t•r•a•n•s•l•a•t•e• •f•u•n•c•t•i•o•n•a•l• •/• •n•o•n•f•u•n•c•t•i•o•n•a•l• •r•e•q•u•i•r•e•m•e•n•t•s• •t•o• •s•y•s•t•e•m•s•
+    •r•e•q•u•i•r•e•m•e•n•t•s• ••• •A•b•i•l•i•t•y• •t•o• •d•e•s•i•g•n• •a•n•d• •c•o•d•e• •c•o•m•p•l•e•x• •p•r•o•g•r•a•m•s•
+    ••• •A•b•i•l•i•t•y• •t•o• •w•r•i•t•e• •t•e•s•t• •c•a•s•e•s• •a•n•d• •s•c•e•n•a•r•i•o•s• •b•a•s•e•d• •o•n• •t•h•e• •s•p•e•c•i•f•i•c•a•t•i•o•n•s•
+    ••• •G•o•o•d• •u•n•d•e•r•s•t•a•n•d•i•n•g• •o•f• •S•D•L•C• •a•n•d• •a•g•i•l•e• •m•e•t•h•o•d•o•l•o•g•i•e•s• • ••• •A•w•a•r•e•n•e•s•s•
+    •o•f• •l•a•t•e•s•t• •t•e•c•h•n•o•l•o•g•i•e•s• •a•n•d• •t•r•e•n•d•s• ••• •L•o•g•i•c•a•l• •t•h•i•n•k•i•n•g• •a•n•d• •p•r•o•b•l•e•m•
+    •s•o•l•v•i•n•g• •s•k•i•l•l•s• •a•l•o•n•g• •w•i•t•h• •a•n• •a•b•i•l•i•t•y• •t•o• •c•o•l•l•a•b•o•r•a•t•e• • pune hyderabad
+    , chennai Technical and Professional Requirements: • Primary skills:Technology->OpenSystem->Python - OpenSystem • Desirables:Technology->Artificial
+    Intelligence->Artificial Intelligence - ALL Preferred Skills: Technology->OpenSystem->Python - OpenSystem->Python Generic
+    Skills: Technology->AI-Generative AI->Artificial Intelligence - BASI'
+  system_score: 24.7
+  system_bucket: C_discard
+  label: 'discard'
+- title: Data Scientist
+  company: Cognizant
+  location: Bengaluru, Kolkata, Pune
+  source: naukri
+  url: https://www.naukri.com/job-listings-data-scientist-cognizant-kolkata-pune-bengaluru-4-to-5-years-051026005923
+  apply_type: naukri_apply
+  experience_min: 4.0
+  experience_max: 5.0
+  salary_raw: 5-15 Lacs PA
+  posted_at: '2026-10-04T20:21:00+00:00'
+  description: Data Scientist - AIML, Gen AI
+  system_score: 24.6
+  system_bucket: C_discard
+  label: 'discard'
+- title: Principal Research Engineer, Applied AI
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4472270932/
+  apply_type: easy_apply
+  experience_min: 10.0
+  experience_max: 15.0
+  salary_raw: ''
+  posted_at: null
+  description: 'Principal Research Engineer, Applied AI www.enchargeai.com Job Description: Location: Remote (India) Principal
+    Research Engineer, Applied AI www.enchargeai.com About EnCharge AI: EnCharge AI is building the next generation AI platform.
+    Our novel in-memory-computing architecture delivers a 10x step-function improvement in compute energy efficiency and performance
+    for AI inference workloads. As the demands of artificial intelligence move beyond today''s models, we believe fundamental
+    underlying infrastructure must evolve. We are an experienced team of AI researchers, silicon & systems engineers, and
+    architects backed by leading investors, poised to become the essential platform for the next wave of AI innovation. The
+    Opportunity: Modern AI workloads—from large language models to diffusion-based generators to multimodal systems—represent
+    some of the most compute-intensive frontiers in AI, and some of the most promising applications for our hardware’s energy
+    efficiency advantages. We’re building a vertically integrated AI stack that will showcase the transformative potential
+    of our silicon while delivering real value to customers today. We are seeking a Research Engineer to push the boundaries
+    of AI model capability, quality, and efficiency. You’ll build fine-tuning and post training pipelines, develop rigorous
+    benchmarking frameworks, and work at the intersection of ML research and hardware-aware optimization—ensuring our models
+    run beautifully on our silicon. This is a role for someone who thrives at the boundary between research and engineering.
+    You’ll read papers, implement techniques, and ship production-quality code—all in service of making AI inference faster,
+    cheaper, and better. Key Responsibilities: Algorithmic Acceleration: Research and implement state-of-the-art techniques
+    to accelerate AI inference—quantization, sparsity, distillation, speculative decoding, caching strategies, and architectural
+    modifications. Systematically characterize tradeoffs between model quality, latency, throughput, and power consumption
+    to find optimal operating points across different use cases. Hardware Co-Design: Partner closely with hardware, compiler,
+    and quantization teams to ensure algorithmic improvements translate to real gains on our silicon. Identify optimizations
+    aligned with our architecture''s strengths—maximizing throughput while minimizing power. Shape the feedback loop between
+    model development and hardware. Evaluation: Build profiling tools and comprehensive benchmarking frameworks to understand
+    compute bottlenecks, measure model quality across standard and domain-specific evals, and track efficiency metrics. Applied
+    Research: Build robust fine-tuning workflows for modern AI models, enabling rapid experimentation with LoRA, adapters,
+    and full fine-tuning. Stay current with the rapidly evolving landscape—evaluate new architectures, implement promising
+    techniques, and contribute insights that inform technical and go-to-market strategy. Qualifications: 10-15 years of experience
+    in ML research, applied ML, or ML systems Strong fundamentals in Python and PyTorch Hands-on experience with transformers,
+    diffusion models, state space models etc. Experience fine-tuning large models and building training/evaluation pipelines
+    Deep understanding of transformers, attention mechanisms, & optimization techniques Comfort reading and implementing techniques
+    from research papers hire , mentor and retain Top Notch AI professionals Nice to Have: Experience with efficient inference
+    techniques (KV cache optimization, attention variants, MoE routing, flow matching) Background in hardware-aware ML optimization
+    or quantization Familiarity with profiling tools (PyTorch Profiler, Nsight, custom instrumentation) Publications in generative
+    modeling, efficient inference, or ML systems Contributions to open-source ML projects Skills / education Pytorch transformers
+    AI ML DL Algorithms Workloads IIT NIT IIIT IISc models / modeling Python Contact: Uday Mulya Technologies muday_bhaskar@yahoo.com
+    "Mining The Knowledge Community" … more'
+  system_score: 22.6
+  system_bucket: C_discard
+  label: 'discard'
+- title: Senior Data Scientist
+  company: ''
+  location: ''
+  source: linkedin
+  url: https://www.linkedin.com/jobs/view/4474246121/
+  apply_type: easy_apply
+  experience_min: 5.0
+  experience_max: null
+  salary_raw: ''
+  posted_at: null
+  description: 'This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner
+    is looking for a Senior Data Scientist based in India. This is a senior, hands-on data science role focused on improving
+    the accuracy and intelligence of a high-volume, real-time identification platform. You’ll work with complex, noisy, and
+    often unlabeled data to develop machine learning approaches that distinguish browsers and devices with greater precision.
+    The role combines advanced machine learning, statistical analysis, experimentation, and backend engineering in a highly
+    technical environment. You’ll own projects from initial research and experimentation through production deployment and
+    integration with real-time services. You’ll also help shape engineering practices, data-driven decision-making, and effective
+    approaches to machine learning across the wider team. This is a fully remote opportunity suited to someone who enjoys
+    solving challenging problems where research, software engineering, and applied ML meet. Accountabilities Develop data-driven
+    algorithms using raw, noisy, and unlabeled data to improve browser and device identification capabilities. Design and
+    implement supervised, semi-supervised, and unsupervised machine learning approaches, including methods for high-cardinality
+    categorical data. Own data science initiatives end to end, from problem definition and experimentation through production
+    deployment and integration with real-time services. Design experiments and technical solutions for real-time inference,
+    model-to-service integration, training automation, and other machine learning engineering challenges. Conduct exploratory
+    data analysis to investigate business and technical questions, identify anomalies, and evaluate model and dataset performance.
+    Develop practical approaches for collecting and evaluating data when labeled datasets are limited or unavailable. Contribute
+    to an engineering-focused, data-driven culture by sharing tools, methodologies, and effective data science practices with
+    colleagues. Collaborate across data science and engineering functions to turn machine learning concepts into reliable,
+    production-ready services. Participate in a shared on-call rotation, with schedules communicated in advance and coverage
+    designed to minimize disruption outside normal working hours. Requirements 5+ years of professional experience spanning
+    machine learning, data science, and backend development or closely related engineering disciplines. Advanced knowledge
+    of machine learning fundamentals and statistical methodologies. Strong practical experience with supervised learning,
+    including gradient boosting and approaches for high-cardinality categorical data. Hands-on experience with semi-supervised
+    and unsupervised learning techniques. Strong exploratory data analysis and creative problem-solving skills, particularly
+    when working with incomplete, noisy, or unlabeled datasets. Proven experience developing real-time machine learning services,
+    including model inference and integration between models and production applications. Ability to transform machine learning
+    models into minimum viable real-time web services and production-ready solutions. Excellent coding and software engineering
+    skills, including strong SQL capabilities and familiarity with Git, CI/CD pipelines, IDEs, and shell scripting. Strong
+    communication skills and fluent English, with the ability to collaborate effectively in a distributed international environment.
+    A research mindset and academic background are advantageous. Experience with Go and backend development is a plus. Familiarity
+    with analytical data platforms such as ClickHouse, Snowflake, or BigQuery is beneficial. Experience with data transformation
+    frameworks such as dbt, visualization tools such as Superset, Tableau, or Looker, or vector databases such as Pinecone,
+    FAISS, or Qdrant is a plus. Experience building embedding-based search systems is advantageous. Familiarity with technologies
+    such as Go, SQL, advanced ML frameworks, ClickHouse, dbt, and AWS is beneficial. Benefits Competitive compensation, with
+    the source role indicating a US cash compensation range of $152,000–$205,000 USD; compensation ranges are location-specific
+    and may differ for candidates based in India. Fully remote working environment. Opportunity to work on challenging machine
+    learning problems involving real-time systems, large-scale data, and advanced device intelligence. Exposure to modern
+    machine learning, data engineering, backend development, and cloud infrastructure technologies. Opportunity to contribute
+    to technical strategy and influence engineering and data science practices. Collaboration with a globally distributed
+    team. Inclusive environment that values diverse experiences, perspectives, and backgrounds. Candidates must be authorized
+    to work from their home location; visa sponsorship is not provided. Participation in a shared on-call rotation with advance
+    scheduling and an effort to balance coverage fairly while minimizing off-hours disruption. How Jobgether Works We use
+    an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role''s
+    core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the
+    hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team. We appreciate
+    your interest and wish you the best! Why Apply Through Jobgether? Data Privacy Notice: By submitting your application,
+    you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information
+    with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable
+    data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any
+    time. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications,
+    analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application
+    materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final
+    hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please
+    contact us. … more'
+  system_score: 19.3
+  system_bucket: C_discard
+  label: 'discard'

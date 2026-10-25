@@ -1,0 +1,104 @@
+# =============================================================================
+# candidate_facts.yaml  —  PRIVATE. NEVER COMMIT. NEVER SEND TO A HOSTED MODEL.
+# =============================================================================
+# Fill in what you are comfortable with. Leave a field blank ("") if you do not
+# know or do not want it used. The system NEVER guesses a blank value: if a job
+# application asks for a blank field, that application is stopped, marked
+# apply-failed, and emailed to you naming the exact missing field.
+#
+# Rules enforced by the tool:
+#   - Values here are the source of truth for FORM questions.
+#   - The resume is the source of truth for SKILLS and WORK HISTORY.
+#   - If they conflict, facts win for forms, resume wins for matching.
+#   - PAN/Aadhaar/bank/passwords must NEVER be stored here or sent anywhere.
+# =============================================================================
+
+meta:
+  version: 1
+  updated_at: ""          # filled automatically
+
+# ----------------------------- Identity & contact ----------------------------
+identity:
+  full_name: ""                       # as on resume
+  full_name_on_id: ""                 # as on government ID, if different
+  email: ""                           # the address recruiters should use
+  phone_country_code: "+91"
+  phone: ""                           # digits only, e.g. 9876543210
+  alternate_phone: ""
+  current_city: ""
+  current_state: ""
+  current_country: "India"
+  hometown: ""
+  preferred_joining_location: ""
+  willing_to_relocate: ""             # yes / no
+  relocate_cities: []                 # e.g. [Bengaluru, Hyderabad, Pune, NCR]
+  work_mode_preference: ""            # remote / hybrid / onsite / any
+  linkedin_url: ""
+  naukri_url: ""
+  github_url: ""
+  portfolio_url: ""
+  personal_site_url: ""
+  twitter_url: ""
+
+# ------------------------- Compensation & notice -----------------------------
+compensation:
+  current_ctc: ""                     # number, e.g. 18.5
+  current_ctc_currency: "INR"
+  current_ctc_unit: "LPA"             # LPA (lakhs/yr) or annual
+  current_fixed_vs_variable: ""       # e.g. "16 fixed + 2.5 variable"
+  expected_ctc: ""                    # number
+  expected_ctc_currency: "INR"
+  expected_ctc_unit: "LPA"
+  expected_ctc_floor: ""              # the number you will NOT go below
+  negotiable: ""                      # yes / no
+  notice_period_days: ""              # e.g. 60
+  currently_serving_notice: ""        # yes / no
+  last_working_day: ""                # YYYY-MM-DD, if serving notice
+  buyout_possible: ""                 # yes / no
+  current_company: ""
+  current_title: ""
+  official_email_for_forms: ""        # or the literal text: do not share
+
+# --------------------------- Experience & eligibility ------------------------
+experience:
+  total_years: ""                     # e.g. 6.5
+  relevant_years: ""                  # for the target role
+  earliest_join_date: ""              # YYYY-MM-DD or "immediate"
+  highest_education: ""               # e.g. B.Tech Computer Science
+  highest_education_institute: ""
+  highest_education_year: ""
+  highest_education_score: ""         # percentage or CGPA
+  twelfth_score: ""                   # if Indian forms ask
+  tenth_score: ""                     # if Indian forms ask
+  work_authorization_india: "yes"     # yes / no
+  work_authorization_other: ""        # other countries + status, if any
+  passport: ""                        # yes / no
+  visa_status: ""                     # e.g. "US H1B", "none"
+  willing_to_travel: ""               # yes / no
+  interviewed_here_before: "unknown"  # yes / no / unknown  (unknown skips it)
+
+# ---------------------------- Application hygiene ----------------------------
+application:
+  resume_files:                       # local paths; add versions as needed
+    - path: ""                        # e.g. C:\easy tool\job-search-agent\resumes\main.pdf
+      label: "default"
+  default_resume: "default"
+  cover_note: "no"                    # yes / no  (a short note from existing facts)
+  # Only fill these if a form demands them AND you want them auto-filled.
+  # If blank, the tool will stop the application and email you. It never invents.
+  gender: ""
+  date_of_birth: ""                   # YYYY-MM-DD
+  nationality: "Indian"
+  marital_status: ""
+
+# ------------- Recurring screening answers you have already seen -------------
+# These are used verbatim. Add any question you keep meeting. Keys are free-form.
+screening_answers:
+  reason_for_job_change: ""
+  why_this_company: ""
+  comfortable_with_night_shifts: ""   # yes / no
+  comfortable_with_bond: ""           # yes / no
+  comfortable_with_c2h: ""            # yes / no (contract-to-hire)
+  relocation_to_anywhere: ""          # yes / no
+  # add more as:
+  # "some recurring question text": "your standing answer"

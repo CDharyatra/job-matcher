@@ -1,0 +1,1 @@
+"""Mail: IMAP read (job alerts) + SMTP send (digests), all $0 via Gmail app password."""

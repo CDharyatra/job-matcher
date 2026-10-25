@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "jobagent"
+version = "0.1.0"
+description = "Local-only, $0.00 personal job-search operating system for LinkedIn + Naukri"
+requires-python = ">=3.11"
+dependencies = [
+  "PyYAML>=6.0",
+  "pdfplumber>=0.11",
+  "python-docx>=1.1",
+  "playwright>=1.45",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+# Optional local cross-encoder reranker (zero network, zero key).
+# Install CPU-only torch first, then the rest from PyPI:
+#   pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   pip install -e ".[local]"
+local = [
+  "transformers>=4.40",
+  "sentence-transformers>=3.0",
+]
+
+[project.scripts]
+jobagent = "jobagent.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["jobagent*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

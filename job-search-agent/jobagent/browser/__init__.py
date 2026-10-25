@@ -1,0 +1,1 @@
+"""Browser workers: attach to the user's dedicated, manually-logged-in Chrome via CDP."""

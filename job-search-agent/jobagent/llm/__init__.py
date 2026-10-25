@@ -1,0 +1,1 @@
+"""LLM adapters. All $0 only. Paid model ids are refused here."""
